@@ -21,4 +21,12 @@ At the time this lesson was built, HOT was still drafting a more robust Imagery 
 
 ### Providing Imagery
 
+Most new mappers are not going to know how to get new imagery and often imagery providers are not sure how to make their imagery available for tracing, this lesson will teach how to get new imagery to the mappers.
+
+**Adding Imagery in JOSM**
+To understand the 'full' process of getting an outside source of imagery, including having to agree to sign an agreement with the provider, there is a good google document for [adding OrbView Imagery into JOSM](https://docs.google.com/document/d/1MB8h-5oyvygEHl213OzkMWN-HpV83b4bb0xzzDXffO4/edit).
+
+**Adding Imagery via Tasking Manager**
+
+
 
