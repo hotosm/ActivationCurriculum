@@ -1,6 +1,7 @@
-# Providing the Best Image
-This unit will explain the process(es) that HOT uses when imagery is lacking in the AOI, how to request imagery as well as how to host and use imagery once provided.
+## Providing the Best Image
 ---
+This unit will explain the process(es) that HOT uses when imagery is lacking in the AOI, how to request imagery as well as how to host and use imagery once provided.
+
 Items to review:
 * [LearnOSM: WMS Configuration](http://courses.hotosm.org/mod/url/view.php?id=129)
 
