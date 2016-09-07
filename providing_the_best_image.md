@@ -33,4 +33,8 @@ To understand the 'full' process of getting an outside source of imagery, includ
 
 To make it as simple as possible for the new mapper, you can add 'remote control' linkage directly into the project on the Tasking Manager. Work with the Tasking Activator(s) to set-up the project, only certain end-point/RESTful services work, so alternatives may need to be explored.
 
+**Adding Imagery to QGIS**
+
+Imagery Activators may also be asked to assist first responder or partner organizations to utilize imagery outside of OSM editing. The process should be very similar to getting imagery into JOSM, but HOT is working to make it even simpler to do by developing a [plug-in for importing imagery from OpenAerialMap into QGIS](https://github.com/hotosm/oam-qgis-plugin); potentially this tool could be developed further to allow importing of imagery outside of OAM.
+
 
