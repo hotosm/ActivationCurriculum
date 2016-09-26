@@ -11,4 +11,5 @@
    * [Capture Progress](capture_progress.md)
    * [Recognize Achievements](recognize_achievements.md)
    * [End of Activation](end_of_activation.md)
+   * Reporting: Activator Endorsement
 
