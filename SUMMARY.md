@@ -5,6 +5,6 @@
    * [Imagery Inspection](article.md)
    * [Providing the Best Image](providing_the_best_image.md)
 * [Activation Essentials](activation_essentials.md)
-   * Activation Anatomy
+   * [Activation Anatomy](activation_anatomy.md)
    * Activation Walkthrough
 
