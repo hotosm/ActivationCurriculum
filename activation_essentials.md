@@ -1,4 +1,4 @@
-# Activation Essentials: Introduction
+# Activation Essentials
 
 ![Disaster Mapping](emergency-mapping.png)
 
