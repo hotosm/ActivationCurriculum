@@ -10,4 +10,5 @@
 * [HOT Reporting](hot_reporting_effective_documentation_for_activati.md)
    * [Capture Progress](capture_progress.md)
    * [Recognize Achievements](recognize_achievements.md)
+   * End of Activation
 
