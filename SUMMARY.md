@@ -14,4 +14,5 @@
    * [Reporting: Activator Endorsement](reporting_activator_endorsement.md)
 * Community Care
    * Caring for the Team
+   * Caring for the Community
 
