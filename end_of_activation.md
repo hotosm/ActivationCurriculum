@@ -1,10 +1,12 @@
 ## End of Activation
 
 This unit will discuss the importance of reviewing and reporting at the conclusion of an Activation.
+
 ---
 ###Team Debrief
 Typically the Activation Lead(s) will debrief the team towards the end of an Activation, to formally thank and release them from their role. However, as it is closely tied to the final reporting it may also be delegated to the Activator in the reporting role, so we'll discuss it here.
 ---
+
 ####Activation Details
 A debrief from the Activation Lead(s), or delegated to the Reporting role, is critical communication to the Team. Typically this will be done via email, unless the Lead(s) determine otherwise. Of course it needs to contain some basics:
 * The name of the Activation
