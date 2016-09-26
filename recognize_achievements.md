@@ -8,6 +8,7 @@ As well as keeping good documentation of Activation progress, we also need to te
 [Nepal 2015 Earthquake Reports](https://hotosm.org/projects/nepal_2015_earthquake_response)
 
 Although reporting is done in a variety of methods, a good example is the updates (blog-posts) attached to the HOT webpage for the Nepal 2015 Earthquake response, take a moment to review the posts.
+
 ---
 
 ###Effective Reports Lesson
@@ -21,7 +22,7 @@ Typically one of the best ways to keep track of overall progress (especially dur
 ![](ProjectTable.png)
 ####Making Clears Asks
 Although the average volunteer mapper is willing to spend many hours a day while the event is in the headline news, reporting becomes essential to maintain any significant level of response as the story fades. Also if the event hasn't made headlines yet, or isn't expected to, the Reporting role will often spend a significant portion of their time working with the Activation Lead(s), Tasking and Public Relations Activators to ensure the community knows that there are mapping needs, how they can best contribute and how their contributions are being utilized by first responders and aid organizations in the field. A combination of emails, website updates and social media campaigns should be used to reach the largest audience. The [Communications Working Group](http://hotosm.org/working-groups/communications) can provide review, help with drafting messaging and ensure you have access or can assist in making posts on all the HOT communication platforms; however it will be up to the Activation Team to formulate the asks and reporting the community needs to know.
----
+
 ###Tips and Tricks
 ####High Impact Tools
 For that extra motivation and/or gratification, here are some examples of reporting tools that really demonstrate the power of an HOT Activation:
