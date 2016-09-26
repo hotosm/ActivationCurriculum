@@ -1,10 +1,12 @@
 ## Capture Progress
 This unit covers the basic documentation and reporting HOT expects when an Activation begins and what needs to be maintained until its conclusion.
+
 ---
 **Items for Review**
 [LearnOSM: Editing the Wiki URL](http://learnosm.org/en/intermediate/editing-the-wiki/)
 To complete this Unit you will need to be familiar with wiki editing, complete or review this LearnOSM module.
 ---
+
 ### OSM Wiki
 Not all Activations will the same level of documentation and reporting, a wiki-page is usually the 'bare minimum' of documentation to begin an Activation.
 
