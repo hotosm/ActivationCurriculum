@@ -8,5 +8,5 @@
    * [Imagery Inspection](article.md)
    * [Providing the Best Image](providing_the_best_image.md)
 * [HOT Reporting](hot_reporting_effective_documentation_for_activati.md)
-* [Capture Progress](capture_progress.md)
+   * [Capture Progress](capture_progress.md)
 
