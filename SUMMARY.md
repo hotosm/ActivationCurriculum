@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Activation Essentials
 * [Activation Essentials](activation_essentials.md)
    * [Activation Anatomy](activation_anatomy.md)
    * Activation Walkthrough
@@ -8,5 +9,4 @@
    * [Imagery Inspection](article.md)
    * [Providing the Best Image](providing_the_best_image.md)
 * HOT Reporting: Effective Documentation for Activations
-* Activation Essentials
 
