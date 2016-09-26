@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Activation Essentials
 * [Activation Essentials: Introduction](activation_essentials.md)
 * [Activation Anatomy](activation_anatomy.md)
 * [Activation Walkthrough](activation_walkthrough.md)
