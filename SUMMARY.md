@@ -13,6 +13,6 @@
    * [End of Activation](end_of_activation.md)
    * [Reporting: Activator Endorsement](reporting_activator_endorsement.md)
 * [Community Care](community_care.md)
-   * Caring for the Team
+   * [Caring for the Team](caring_for_the_team.md)
    * Caring for the Community
 
