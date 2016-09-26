@@ -1,6 +1,7 @@
 ## Recognize Achievements
 
 As well as keeping good documentation of Activation progress, we also need to tell the public and more importantly our volunteer mappers how beneficial our mission is.
+
 ---
 **Items for Review**
 
@@ -8,6 +9,7 @@ As well as keeping good documentation of Activation progress, we also need to te
 
 Although reporting is done in a variety of methods, a good example is the updates (blog-posts) attached to the HOT webpage for the Nepal 2015 Earthquake response, take a moment to review the posts.
 ---
+
 ###Effective Reports Lesson
 The HOT community will map a community in need without any sort of motivation or direct knowledge of direct benefit (because there's always the permanent benefit of growing OSM); however, timely reports of progress and usage can go a long way to fulfilling our Activation objectives quickly and efficiently.
 
