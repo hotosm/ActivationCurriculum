@@ -11,9 +11,11 @@ This unit will discuss the various risks to physical and mental well-being while
 To begin to understand the real risk to digital volunteers, read this guest article posted to Ushahidi by HOT's own Heather Leson.
 
 **Knowing the Risks**
+
 As a digital volunteer, or basically anytime you're using a computer, you are doing things that aren't 'natural' for the human body; such as sitting for long periods of time looking at artificial light. Many of the same risks found in the modern office setting are applicable to digital volunteers even in the comfort of their own home. The Center for Disease Control has some resources explaining those risks: http://www.cdc.gov/niosh/topics/officeenvironment/
 
 **Mitigate the Risks**
+
 Now that you know the risks, what can we do to mitigate them? It is expected that the Community Care Activators regularly check-in with the Activation Team with gentle reminders to take care of themselves. This [email from Heather Leson](https://lists.openstreetmap.org/pipermail/hot/2015-May/008615.html) sent during the Nepal Earthquake Activation is a great example.
 Some basic tactics for mitigating health risks are:
 * Taking frequent breaks (get up and stretch at least every hour)
@@ -39,6 +41,7 @@ Recognizing and dealing with the psychological impact of a response on digital v
 *Note: none of these symptoms are assured signs of a problem, only warnings that should be investigated.
 
 **Minimizing the Risks**
+
 [Psychological First Aid](https://en.wikipedia.org/wiki/Psychological_first_aid) was developed for reducing the occurrence of Post Traumatic Stress Disorder in military veterans, but has since been adopted for other uses and provides a great baseline resource for how Community Care Activators can help those involved reduce or eliminate the risk of any lasting affects associated with digital volunteering.
 Things to do and encourage others to do:
 * First and foremost: stay calm and be nice
