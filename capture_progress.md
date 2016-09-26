@@ -12,25 +12,24 @@ To complete this Unit you will need to be familiar with wiki editing, complete o
 ### OSM Wiki
 Not all Activations will the same level of documentation and reporting, a wiki-page is usually the 'bare minimum' of documentation to begin an Activation.
 
-#### HOT Wikipage
+**HOT Wikipage**
 The root wiki-page for HOT lives inside the OpenStreetMap wiki and it is a good starting place for information on HOT. Take a moment to review it here:
 
 http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team
 
-#### Activation Wikipage
+**Activation Wikipage**
 
 Most if not all Activations require their own wiki-page as there is no better way for the Activation Team to both inform the community and the community contribute to keeping an up-to-date status and single repository of information. Although formatting and content changes a bit each time, the wiki-page for Typhoon Haiyan is a great example of how much and why a wiki-page can be critical to a successful response.
 
 http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan
 
-#### Activation Template
+**Activation Template**
 
 The Activation Working Group maintains a 'very broad' and often a bit more than necessary template for Activations. It is recommended that you use this more as a 'cut and paste' resource as you need them rather than starting with the entire page - however, it can be tricky to retain the proper pieces for formatting if it is done this way. Take a moment to review and 'bookmark'/'watch' the page so you can quickly find it:
 
 http://wiki.openstreetmap.org/wiki/Template:Activation
 
-### Project Page
-
+**Project Page**
 Not many of our minor Activations generate enough traffic to our website to warrant a project page, and sometimes due to sensitivities we may not want one, however when major disaster strikes it is essential.
 
 #### HOT Website
