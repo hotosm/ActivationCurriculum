@@ -26,6 +26,9 @@ Here are the basics that every individual can do to minimize their own liability
 * Actively participate in amending, or at minimum inform your Activation Lead, when policy or guidance is not working with practice.
 * Immediately inform the HOT Executive Director of any legal concerns.
 
+### Conflict Resolution
+Unfortunately we are sometimes a risk to each other even in good mental and physical health; simple disagreements can lead to some of the same trauma as dealing with disaster if not dealt with quickly and completely.
+
 **When to Intervene**
 
 Debate is a part of the Open Source type community that HOT belongs to. Healthy debate is good, but digital communication can easily be misunderstood and even a well meaning constructive criticism can begin an argument that can damage the entire community. Keeping in mind the signs and dealing individually with people showing signs of disaster stress, the Community Care Activators need to monitor the HOT communication channels and try to intervene before a conflict occurs.
@@ -39,7 +42,3 @@ Outline:
 * Supporting Items/Questions
 
 If these methods fail, email the Activation Lead with Executive Director copied and inform them of the situation and measures taken in attempt to resolve.
-
-### Conflict Resolution
-Unfortunately we are sometimes a risk to each other even in good mental and physical health; simple disagreements can lead to some of the same trauma as dealing with disaster if not dealt with quickly and completely.
-
