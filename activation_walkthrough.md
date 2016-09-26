@@ -9,7 +9,8 @@ Items to review
 ---
 
 ###Activation Phases
-####Phases of HOT Activation
+**Phases of HOT Activation**
+
 This lesson teaches the phases of an Activation and the activities performed.
 The Activation Protocol defines the flow of activities involved during an HOT Activation and describes how our trained volunteers perform the tasks that lead to a successful and efficient response.
 
@@ -20,26 +21,33 @@ Phase 3 Activation Conclusion
 
 Another key aspect of effective Activation is HOT Readiness (Phase 0 - discussed in Unit 1: Activation Anatomy), which aims to keep the HOT community prepared to respond when called upon.
 ![Activation Phases](ActivationPhases.jpg)
-####Phase 1: Determine Response
+**Phase 1: Determine Response**
+
 The HOT Activation leadership discuss various factors around an event to determine an appropriate response.
 
 ![Factors to Determine Response](DetermineResponse.jpg)
 
 HOT expects that the Activation Lead(s) have been diligent in performing a size-up, reviewing data and imagery, estimating the resource needs, and that they agree to fulfill this Activation Protocol before declaring an Activation.
 
-####Phase 2: Response Activities
+**Phase 2: Response Activities**
+
 ![Response Activities](Response Activities.jpg)
 Over the duration of an Activation many activities are repeated, maintained and monitored. Activation Lead(s) ensure these are managed and taken care of throughout the entire Activation.
-####Phase 3: Activation Conclusion
+
+**Phase 3: Activation Conclusion**
+
 Concluding the Activation consists of completing and validating the remaining Tasking Manager projects, making sure to reflect the changes in priority on the Tasking Manager, wiki-page and other messaging, completing documentation and reports and reviewing the Activation to improve the next response.
 ![Activation Conclusion](ActivationConclusion.jpg)
 
 ###Activation Roster
 This lesson teaches a volunteer about the Activation Roster and the significance of the team roles.
-####Activation Roster
+
+**Activation Roster**
+
 Volunteers are required to complete training (as you are doing in this course) as well as receive endorsement from an existing Activator to be recognized as able to perform activities on behalf of HOT. The path for becoming a Trainee, then Activator and ultimately an Activation Lead is visualized in the Activator Career Path diagram.
 ![Activator Career Path](ActivatorCareerPath_Animated.gif)
-####Activation Roles
+**Activation Roles**
+
 After successfully completing this Activation Essentials course, you will have access to training for these 10 Activation Roles:
 ![Activaion Roles](ActivationRoles.jpg)
 * Note that in order to begin the training course for Activation Lead, you must first complete all other training and be peer endorsed as an Activator.
