@@ -34,6 +34,7 @@ Unfortunately we are sometimes a risk to each other even in good mental and phys
 Debate is a part of the Open Source type community that HOT belongs to. Healthy debate is good, but digital communication can easily be misunderstood and even a well meaning constructive criticism can begin an argument that can damage the entire community. Keeping in mind the signs and dealing individually with people showing signs of disaster stress, the Community Care Activators need to monitor the HOT communication channels and try to intervene before a conflict occurs.
 
 **Resolution Process**
+
 The HOT Community Working Group has drafted a Resolution Process.
 Outline:
 * Key Messages
