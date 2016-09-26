@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Activation Essentials](activation_essentials.md)
 * [Activation Anatomy](activation_anatomy.md)
+* [Activation Essentials](activation_essentials.md)
 * [Activation Walkthrough](activation_walkthrough.md)
 * [Imagery Coordination Role](imagery_coordination_role.md)
    * [Imagery Inspection](article.md)
