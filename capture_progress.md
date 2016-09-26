@@ -4,9 +4,7 @@ This unit covers the basic documentation and reporting HOT expects when an Activ
 **Items for Review**
 [LearnOSM: Editing the Wiki URL](http://learnosm.org/en/intermediate/editing-the-wiki/)
 To complete this Unit you will need to be familiar with wiki editing, complete or review this LearnOSM module.
-
 ---
-
 ### OSM Wiki
 Not all Activations will the same level of documentation and reporting, a wiki-page is usually the 'bare minimum' of documentation to begin an Activation.
 
@@ -26,7 +24,6 @@ http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan
 The Activation Working Group maintains a 'very broad' and often a bit more than necessary template for Activations. It is recommended that you use this more as a 'cut and paste' resource as you need them rather than starting with the entire page - however, it can be tricky to retain the proper pieces for formatting if it is done this way. Take a moment to review and 'bookmark'/'watch' the page so you can quickly find it:
 
 http://wiki.openstreetmap.org/wiki/Template:Activation
-
 ---
 ### Project Page
 
