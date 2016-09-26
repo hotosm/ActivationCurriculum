@@ -12,6 +12,8 @@ Items for review
 Phases of Disaster Cycle
 There are nearly as many ways to explain what HOT refers to as the "Disaster Cycle" as there are organizations involved in disaster. Many of them have a few things in common and most of the first responders you might talk to often say something like 'we are always somewhere within the disaster cycle'.
 
-The Center for Disaster Philanthropy has a pretty good detailed description of what they call the "Disaster Life Cycle", but basically the same concept. In this version they describe four phases: mitigation, disaster preparedness, disaster response and disaster recovery.
+The Center for Disaster Philanthropy has a pretty good detailed description of what they call the "[Disaster Life Cycle](http://disasterphilanthropy.org/the-disaster-life-cycle/)", but basically the same concept. In this version they describe four phases: mitigation, disaster preparedness, disaster response and disaster recovery.
 
 For HOT's purpose our activities are almost always useful for both mitigating and preparation for disaster, so we have simplified our disaster cycle to: preparedness, response and recovery.![Disaster Cycle](DisasterCycle_moodle.jpg)
+
+Preparedness: More on this in Article 3: HOT Readiness; in general our 'day-to-day' operations including Disaster Mapping, but even more so the programs of Community Building and Technical Development as well as outreach, capacity building and disaster monitoring help prepare the organization as well as the map and mapping tools for the next response.
