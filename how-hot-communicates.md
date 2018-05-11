@@ -1,4 +1,4 @@
-
+## How HOT Communicates
 
 This unit will introduce the various tools/platforms/methods for HOT communication both internally and externally.
 

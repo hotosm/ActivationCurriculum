@@ -1,3 +1,5 @@
+## Managing Communications
+
 This unit will discuss the importance of HOT communications, how to effectively monitor and manage the various channels.
 
 ### Communication Triage

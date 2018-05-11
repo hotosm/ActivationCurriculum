@@ -1,4 +1,4 @@
-## Maintaining Relationships
+## Maintaining Relations
 
 #### Existing Partners
 
