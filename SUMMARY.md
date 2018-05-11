@@ -25,4 +25,5 @@
   * [Managing Communications](managing-communications.md)
   * [Public Relations: Course Exam](public-relations-course-exam.md)
   * [Public Relations: Activator Endorsement](public-relations-activator-endorsement.md)
-
+* [OSM Data Usability Role](osm-data-usability-role.md)
+  * [Extracts and Exports](extracts-and-exports.md)
