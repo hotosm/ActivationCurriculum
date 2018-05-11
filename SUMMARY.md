@@ -35,4 +35,10 @@
 * [Imagery Coordination Role](imagery_coordination_role.md)
   * [Imagery Inspection](article.md)
   * [Providing the Best Image](providing_the_best_image.md)
+* [OSM Data Management Role](osm-data-management-role.md)
+  * [OSM Data Inspection / Review](osm-data-inspection-review.md)
+  * [OSM Tagging](osm-tagging.md)
+  * [OSM Imports](osm-imports.md)
+  * [Data Management: Course Exam](data-management-course-exam.md)
+  * [Data Management: Activator Endorsement](data-management-peer-endorsement.md)
 
