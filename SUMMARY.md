@@ -19,5 +19,6 @@
 * [Creating Partnerships](creating-partnerships.md)
 * [Representing HOT](code-of-conduct.md)
 * [Maintaining Relations](maintaining-relations.md)
-* [Partner Relations: Course Exam](partner-relations-course-exam.md)
+* [Partner Liaison: Course Exam](partner-relations-course-exam.md)
+* [Partner Liaison: Activator Endorsement](partner-liaison-activator-endorsement.md)
 
