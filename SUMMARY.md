@@ -15,5 +15,6 @@
 * [Imagery Coordination Role](imagery_coordination_role.md)
   * [Imagery Inspection](article.md)
   * [Providing the Best Image](providing_the_best_image.md)
-* [General HOT Partner Liaison](general-hot-partner-liaison.md)
+* [Partner Liaison](partner-liaison.md)
+* [Creating Partnerships](creating-partnerships.md)
 
