@@ -21,4 +21,6 @@
   * [Maintaining Relations](maintaining-relations.md)
   * [Partner Liaison: Course Exam](partner-relations-course-exam.md)
   * [Partner Liaison: Activator Endorsement](partner-liaison-activator-endorsement.md)
+* [OSM Data Usability Role](osm-data-usability-role.md)
+* [Extracts and Exports](extracts-and-exports.md)
 
