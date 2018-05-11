@@ -12,9 +12,6 @@
 * [Community Care Role](community_care.md)
   * [Caring for the Team](caring_for_the_team.md)
   * [Caring for the Community](caring_for_the_community.md)
-* [Imagery Coordination Role](imagery_coordination_role.md)
-  * [Imagery Inspection](article.md)
-  * [Providing the Best Image](providing_the_best_image.md)
 * [Partner Liaison Role](partner-liaison.md)
   * [Representing HOT](code-of-conduct.md)
   * [Maintaining Relations](maintaining-relations.md)
@@ -35,4 +32,7 @@
   * [Correcting Data, or Mappers?](correcting-data-or-mappers.md)
   * [Validation: Course Exam](validation-course-exam.md)
   * [Validation: Activator Endorsement](validation-activator-endorsement.md)
+* [Imagery Coordination Role](imagery_coordination_role.md)
+  * [Imagery Inspection](article.md)
+  * [Providing the Best Image](providing_the_best_image.md)
 
