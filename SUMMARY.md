@@ -20,4 +20,9 @@
   * [Maintaining Relations](maintaining-relations.md)
   * [Partner Liaison: Course Exam](partner-relations-course-exam.md)
   * [Partner Liaison: Activator Endorsement](partner-liaison-activator-endorsement.md)
+* [Public Relations Role](public-relations-role.md)
+  * [How HOT Communicates](how-hot-communicates.md)
+  * [Managing Communications](managing-communications.md)
+  * [Public Relations: Course Exam](public-relations-course-exam.md)
+  * [Public Relations: Activator Endorsement](public-relations-activator-endorsement.md)
 
