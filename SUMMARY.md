@@ -41,4 +41,9 @@
   * [OSM Imports](osm-imports.md)
   * [Data Management: Course Exam](data-management-course-exam.md)
   * [Data Management: Activator Endorsement](data-management-peer-endorsement.md)
+* [Tasking Role](tasking-role.md)
+  * [Creating Projects](creating-projects.md)
+  * [Managing Priorities](managing-priorities.md)
+  * [Tasking: Course Exam](tasking-course-exam.md)
+  * [Tasking: Activator Endorsement](tasking-activator-endorsement.md)
 
