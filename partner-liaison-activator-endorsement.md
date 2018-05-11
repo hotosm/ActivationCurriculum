@@ -1,5 +1,7 @@
 ## Partner Liaison: Activator Endorsement
 
+This exam tests the students understanding and comprehension of the material presented in this course.
+
 After you have completed the course exam you will be added to the roster as a Partner Liaison Trainee. Review these assignments for specific requirements, some items can be completed outside of an Activation but at least one requirement will need to be completed while performing the role during an Activation.
 
 ### Part 1: Introduction

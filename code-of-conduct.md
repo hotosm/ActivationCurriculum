@@ -1,3 +1,5 @@
 ## Code of Conduct
 
+In this lesson some ground rules are laid out for our volunteers who speak to partner organizations on behalf of HOT.
+
 The <a target="_blank" href="http://hotosm.org/sites/default/files/HOT_Membership_Code.pdf">HOT Membership Code</a>, which includes the Code of Conduct, was introduced in the Activation Essentials course. Here we will discuss details specifically relevant to Partner Liaisons. Sections I and III are broadly relevant to liaisons, however Section II has several clauses to note:<br><ul><li>Section II, clause 2. - an effective liaison will understand their counterpart's mission and principles and communicate to the HOT community how and why our missions align for an effective partnership.</li><li>Section II, clause 4. - this clause is written almost directly to liaisons, as well as the community if/when they are talking to partners; in general, liaisons should know and comply with HOT policy and guidance or ask an HOT Director for clarification when dealing with partners.<br></li></ul>
