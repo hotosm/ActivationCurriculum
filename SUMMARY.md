@@ -46,4 +46,9 @@
   * [Managing Priorities](managing-priorities.md)
   * [Tasking: Course Exam](tasking-course-exam.md)
   * [Tasking: Activator Endorsement](tasking-activator-endorsement.md)
+* [Activation Leadership Role](activation-leadership-role.md)
+  * [Critical Responsibilities](critical-responsibilities.md)
+  * [Leading an Activation](leading-an-activation.md)
+  * [Activation Lead: Course Exam](activation-lead-course-exam.md)
+  * [Activation Lead: Leadership Endorsement](activation-lead-activator-endorsement.md)
 
