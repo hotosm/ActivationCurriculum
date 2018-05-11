@@ -31,8 +31,8 @@
   * [Usability: Course Exam](usability-course-exam.md)
   * [Usability: Activator Endorsement](usability-activator-endorsement.md)
 * [Validation Role](validation-role.md)
-* [Tools of the Trade](tools-of-the-trade.md)
-* [Correcting Data, or Mappers?](correcting-data-or-mappers.md)
-* [Validation: Course Exam](validation-course-exam.md)
-* [Validation: Activator Endorsement](validation-activator-endorsement.md)
+  * [Tools of the Trade](tools-of-the-trade.md)
+  * [Correcting Data, or Mappers?](correcting-data-or-mappers.md)
+  * [Validation: Course Exam](validation-course-exam.md)
+  * [Validation: Activator Endorsement](validation-activator-endorsement.md)
 
