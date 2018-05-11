@@ -17,7 +17,7 @@
   * [Providing the Best Image](providing_the_best_image.md)
 * [Partner Liaison](partner-liaison.md)
 * [Creating Partnerships](creating-partnerships.md)
-* [Code of Conduct](code-of-conduct.md)
+* [Representing HOT](code-of-conduct.md)
 * [Maintaining Relations](maintaining-relations.md)
 * [Partner Relations: Course Exam](partner-relations-course-exam.md)
 
