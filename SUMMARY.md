@@ -27,5 +27,7 @@
   * [Public Relations: Activator Endorsement](public-relations-activator-endorsement.md)
 * [OSM Data Usability Role](osm-data-usability-role.md)
   * [Extracts and Exports](extracts-and-exports.md)
-* [Using OSM Data](using-osm-data.md)
+  * [Using OSM Data](using-osm-data.md)
+  * [Usability: Course Exam](usability-course-exam.md)
+  * [Usability: Activator Endorsement](usability-activator-endorsement.md)
 
