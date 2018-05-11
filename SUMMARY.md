@@ -16,7 +16,6 @@
   * [Imagery Inspection](article.md)
   * [Providing the Best Image](providing_the_best_image.md)
 * [Partner Liaison](partner-liaison.md)
-  * [Creating Partnerships](creating-partnerships.md)
   * [Representing HOT](code-of-conduct.md)
   * [Maintaining Relations](maintaining-relations.md)
   * [Partner Liaison: Course Exam](partner-relations-course-exam.md)
