@@ -3,7 +3,7 @@
 As well as keeping good documentation of Activation progress, we also need to tell the public and more importantly our volunteer mappers how beneficial our mission is.
 
 ---
-**Items for Review**
+**Items to Read**
 
 [Nepal 2015 Earthquake Reports](https://hotosm.org/projects/nepal_2015_earthquake_response)
 
@@ -25,6 +25,13 @@ Typically one of the best ways to keep track of overall progress (especially dur
 **Making Clears Asks**
 
 Although the average volunteer mapper is willing to spend many hours a day while the event is in the headline news, reporting becomes essential to maintain any significant level of response as the story fades. Also if the event hasn't made headlines yet, or isn't expected to, the Reporting role will often spend a significant portion of their time working with the Activation Lead(s), Tasking and Public Relations Activators to ensure the community knows that there are mapping needs, how they can best contribute and how their contributions are being utilized by first responders and aid organizations in the field. A combination of emails, website updates and social media campaigns should be used to reach the largest audience. The [Communications Working Group](http://hotosm.org/working-groups/communications) can provide review, help with drafting messaging and ensure you have access or can assist in making posts on all the HOT communication platforms; however it will be up to the Activation Team to formulate the asks and reporting the community needs to know.
+
+#### Review
+
+The Activation Team, mainly those Activators in the Reporting role are responsible for communicating mapping needs throughout a response; the Communication Working Group only provides assistance when requested.
+
+* True
+* False
 
 ###Tips and Tricks
 
@@ -48,4 +55,11 @@ Here are a few examples that showcase OSM usage and helped contribute to a more 
 * [Quakemap.org](http://quakemap.org/) for coordinating needs reports after the Nepal Earthquakes
 * [GDAC Map](https://unosat.maps.arcgis.com/apps/webappviewer/index.html?id=b9f9da798f364cd6a6e68fc20f5475eb) for responding to the Nepal Earthquakes
 The Reporting Activator(s) are not creating these, but adding links to them on the Activation wiki-page and linking them in blog-posts, emails and other messaging.
+
+#### Review
+
+Reporting Activators are required to use a specific tool to recognize the achievements made during an Activation.
+
+* True
+* False
 

@@ -39,6 +39,16 @@ The main point of the debrief is for the Activation Lead(s) to tell the team how
 * **Successes:**
  * Mostly the communication within the Activation Team as well as with the community was excellent, there seemed to be little question or confusion from the mappers about what was asked and how best to participate.
  * Reporting was great with many nice visuals and use showcase that contributed to a motivated community.
+ 
+ #### Review
+ 
+ Which of the following roles on the Activation Team conduct a debriefing (there may be more than one correct answer)?
+* Reporting
+* Activation Lead
+* Public Relations
+* Communications
+
+## Activation Review
 
 ###Team Feedback
 Where the debriefing is typically the Activation Lead(s) giving their overview and critique of the Activation from the leadership view, an Activation Review is for the team to provide feedback of their own. These could also be done via email, but are often more effectively done with a live voice or text chat. The idea is for the Activation Team to feel safe to speak freely to the Lead(s) and other team members, be critical of actions, but not of each other. It may take getting to know the individuals on the team and how they would most likely give honest feedback.
