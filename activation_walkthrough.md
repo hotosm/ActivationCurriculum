@@ -39,6 +39,10 @@ Over the duration of an Activation many activities are repeated, maintained and 
 Concluding the Activation consists of completing and validating the remaining Tasking Manager projects, making sure to reflect the changes in priority on the Tasking Manager, wiki-page and other messaging, completing documentation and reports and reviewing the Activation to improve the next response.
 ![Activation Conclusion](ActivationConclusion.jpg)
 
+#### Review
+
+During which phase is a decision is made for an appropriate HOT response by the Activation Lead(s) after discussion with the Activation Working Group and/or Directors?
+
 ###Activation Roster
 This lesson teaches a volunteer about the Activation Roster and the significance of the team roles.
 
@@ -51,3 +55,12 @@ Volunteers are required to complete training (as you are doing in this course) a
 After successfully completing this Activation Essentials course, you will have access to training for these 10 Activation Roles:
 ![Activaion Roles](ActivationRoles.jpg)
 * Note that in order to begin the training course for Activation Lead, you must first complete all other training and be peer endorsed as an Activator.
+
+#### Review
+
+Which Role performs the event size-up?
+
+* Public Relations
+* Data Role
+* Communications
+* Activation Lead
