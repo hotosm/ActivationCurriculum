@@ -37,16 +37,45 @@ This is when HOT decides whether or not to activate or otherwise what sort of ac
 
 Although HOT activities may not change for quite some time after the impact of an event has passed and the affected community enters the recovery phase, typically an Activation will begin to wind-down and may be transitioned to another organization or the local OSM community to continue. HOT works throughout an Activation to support the growth of local community as is the hope with all of OSM that the data continues to be added and maintained in perpetuity. 
 ![Community Icon](Community.jpg)
+
 ###Activation Basics
 This lesson teaches how Activation has evolved over time and the policies that guide operations.
 
 **A Brief History**
 
-‘Activation’ is the concept that the Humanitarian OpenStreetMap Team (HOT) was founded on. This relates to coordinating the multi-million strong global community of OpenStreetMap (OSM) contributors in response to a disaster. Although HOT has since grown to do much more, the activities carried out during all phases of the disaster cycle fall under the term “Activation” -  a common phrase used by digital humanitarians. For external communication HOT uses the term “Disaster Mapping”, for more information on the organization take the course: HOT 101
+‘Activation’ is the concept that the Humanitarian OpenStreetMap Team (HOT) was founded on. This relates to coordinating the multi-million strong global community of OpenStreetMap (OSM) contributors in response to a disaster. Although HOT has since grown to do much more, the activities carried out during all phases of the disaster cycle fall under the term “Activation” -  a common phrase used by digital humanitarians. For external communication HOT uses the term “Disaster Mapping”, for more information on the organization [take the course: HOT 101](http://courses.hotosm.org/course/view.php?id=5)
 
 
 All people engaged in HOT activities need to adhere to the Code of Conduct; included in the policy document: HOT Membership Code.
 ![HOT Logo](320px-Hot_logo.svg.png)
+
+#### Activation Working Group
+Activation Working GroupThe HOT Activation Working Group is tasked with establishing how we define HOT Activation and developing surrounding protocols and guidance. In 2012, the group did quite a bit of work towards formalizing what an Activation is, versus non-disaster and non-HOT-driven disaster mapping. Although nothing was officially adopted then, it created the basis for how HOT conducted activities over the next several years. Including through many difficult Activations including Typhoon Haiyan, the Ebola Epidemic, the Nepal Earthquakes and many other disaster mapping projects. 
+
+[Learn more about the Activation Working Group here](http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Activation).
+
+Because of the successful Activation for Ebola beginning March 2014, HOT was awarded a grant from the Hewlett Foundation to use in various ways to improve our response. The monies were divided between three separate projects; two Tech improvements: Export Tool and Field Papers, and the Activation Curriculum development.
+
+#### Components of an Activation
+
+During the early discussion around developing an Activation Curriculum it became apparent that there are two very distinct components of HOT Activation/the Disaster Mapping Program. There is a protocol(i.e. process) that is designed to be strictly followed; to both make a decision to activate and the deliverables/services that entails - and this is what the Activation Working Group has worked hard to better define over the years. 
+
+
+[Click here to view the Activation Protocol](https://drive.google.com/open?id=1qefHRE3_wUyG3lMSb7NlkSDtPuQeaQXsflkxt3E3xSA).
+
+The other component, that was more lacking, is a training program to build both the number of competent Activators up, and the overall knowledge and skillset of each individual.
+
+There are also ‘tangents’ to HOT Activation, such as enhancements to the Tasking Manager, Export Tool, LearnOSM and all the other tools including those that we will want to build in the future to better fulfill our mission.
+
+#### Review
+
+Match the document description with the corresponding source document. Would you find the below items in the Activation Protocol, HOT Code / Code of Conduct or the Activation Working Group Terms of Reference.
+
+* This document sets the flow of activities during an HOT Activation.
+* This section of another document governs the behavior of HOT volunteers.
+* This document describes the responsibilities and methods for drafting HOT Activation related policies and guidance.
+
+
 
 ###HOT Readiness
 This lesson teaches HOT readiness activities.
