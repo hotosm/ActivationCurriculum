@@ -99,3 +99,11 @@ HOT also works to support, promote and research "Mapathons" (i.e. coordinated ed
 **Disaster Monitoring**
 
 The single greatest resource HOT has to monitor for disasters is the global volunteer community. Individuals monitoring their various local news sources as well as social media and other online communications are typically the ones to first alert the organization that something has happened or predicted to have a humanitarian impact. Partner organizations also request HOT to assist when they are preparing or responding to an event and many of them have a branch or it is their mission to monitor disaster.
+
+#### Review
+
+HOT sends people into the field to map, train and build local OpenStreetMap communities in places like Mongolia, Tanzania and Haiti?
+
+* True
+* False
+
