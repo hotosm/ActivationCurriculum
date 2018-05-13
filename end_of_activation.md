@@ -49,9 +49,9 @@ Which of the following roles on the Activation Team conduct a debriefing (there 
 People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the #courses slack channel on HOT's Slack ( [Request Invite](http://slack.hotosm.org) ) If anyone has any question about the correct answer to a Review question, please ask in the #courses channel of HOT's Slack.
 
 
-## Activation Review
+### Activation Review
 
-### Team Feedback
+#### Team Feedback
 Where the debriefing is typically the Activation Lead(s) giving their overview and critique of the Activation from the leadership view, an Activation Review is for the team to provide feedback of their own. These could also be done via email, but are often more effectively done with a live voice or text chat. The idea is for the Activation Team to feel safe to speak freely to the Lead(s) and other team members, be critical of actions, but not of each other. It may take getting to know the individuals on the team and how they would most likely give honest feedback.
 
 #### Items to Discuss
@@ -70,3 +70,15 @@ Examples:
 * Issues related to Activation procedures may need further discussion and/or amendment to protocol and other policy and guidance; these items should be forwarded to the Activation Working Group.
 * Issues related to communication should be discussed with those in the Public Relations role and potentially need to be addressed by the Communication Working Group in case it was related to being able to efficiently communicate through Social Media, the website or other HOT platforms.
 * Issues related to collaboration with partner organizations may be resolved by discussing with an individual Partner Liaison or may need to be discussed with the HOT Executive Director.
+
+#### Review
+
+Match the example suggested improvement with the most appropriate option for referral among the following options: HOT Executive Director, Activation Working Group, Partner Liaison, Communications Working Group, Public Relations Role person, Training Working Group, Community Working Group.
+
+* We need to update the Activation Protocol to better explain the Reporting process.
+* We need a contact with an organization we worked with during this Activation.
+* Our external messaging for this Activation was ineffective, there were very few social media posts as an example.
+* We need to update some content on LearnOSM due to changes in one or more of our technical tools.
+
+
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the #courses slack channel on HOT's Slack ( [Request Invite](http://slack.hotosm.org) ) If anyone has any question about the correct answer to a Review question, please ask in the #courses channel of HOT's Slack.
