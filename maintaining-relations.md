@@ -2,7 +2,7 @@
 
 #### Existing Partners
 
-Of course those interested in becoming liaisons should know who our current partners are. However, for privacy protection the list of contacts is securely maintained by HOT Operations Staff. After endorsement Partner Liaisons will have access to the document upon approval of Operations or the Executive Director. Other information on existing partnerships is available to the public and all documentation you have permission to view will be in the HOT Drive: <a target="_blank" href="https://drive.google.com/open?id=0B1EorbpNCZ03flhOQTZKdlU4NHI0TlBzb1RjZHB1UzA4TmJ0NkZfNDR1SUdUVUVMT05JVTg">Partner/Project Folder</a> (save the link).
+Of course those interested in becoming liaisons should know who our current partners are. However, for privacy protection the list of contacts is securely maintained by HOT Operations Staff. After endorsement Partner Liaisons will have access to the document upon approval of Operations or the Executive Director. Other information on existing partnerships is available to the public and all documentation you have permission to view will be in the HOT Drive: [Partner/Project Folder](https://drive.google.com/open?id=0B1EorbpNCZ03flhOQTZKdlU4NHI0TlBzb1RjZHB1UzA4TmJ0NkZfNDR1SUdUVUVMT05JVTg) (save the link).
 
 #### Brief Partner List
 As we are constantly making new connections, the following is only a brief list of current partners at the creation of this course:
