@@ -1,6 +1,8 @@
 ## Using OSM Data
 There are so many ways to use OSM data and we can't cover them all here; this unit will focus on common usage of geo-data for disaster/humanitarian response.
 
+---
+### Items to Read
 #### LearnOSM: Setting up PostgreSQL
 Some requests for assistance might include how to use the data inside a database, before we get into using OSM data, [this LearnOSM module](http://learnosm.org/en/osm-data/setting-up-postgresql/) shows some basics about databases using QGIS and PostgreSQL.
 
@@ -18,19 +20,24 @@ Although stated before, this course isn't for becoming a GIS or spatial analysis
 
 #### How it Gets Used
 
-Our partners tell us they are using OpenStreetMap for all their geodata needs, from basic navigation to estimating the amount of rubble that will need to be removed in the recovery from an event. <a target="_blank" href="http://mediashift.org/idealab/2012/09/crisis-mapping-with-openstreetmap-a-big-focus-at-tokyo-conference250/">A short but good article</a> by friend of HOT, Alex Barth, showcases a talk about OpenStreetMap's utility before, during and after disaster.<br><p><br></p>
+Our partners tell us they are using OpenStreetMap for all their geodata needs, from basic navigation to estimating the amount of rubble that will need to be removed in the recovery from an event. [A short but good article](http://mediashift.org/idealab/2012/09/crisis-mapping-with-openstreetmap-a-big-focus-at-tokyo-conference250/) by friend of HOT, Alex Barth, showcases a talk about OpenStreetMap's utility before, during and after disaster.
 
 #### HOT and InaSAFE
 
-HOT was selected to help train and promote the <a target="_blank" href="http://inasafe.org/en/">InaSAFE plug-in for QGIS</a>. Since 2011 our team in Indonesia has been heavily involved in growing the OSM community there to collect exposure data that is then used to perform hazard and risk analysis. You can follow <a target="_blank" href="http://hotosm.org/projects/indonesia-0">the team</a> and <a target="_blank" href="http://hotosm.org/projects/inasafe">the project</a> on the HOT website. HOT highly encourages all of it's volunteers, especially those in the Usability role to explore the <a target="_blank" href="http://inasafe.org/en/training/index.html">training materials</a> and become familiar with using InaSAFE.<br><p><br></p>
+HOT was selected to help train and promote the [InaSAFE plug-in for QGIS](http://inasafe.org/en/). Since 2011 our team in Indonesia has been heavily involved in growing the OSM community there to collect exposure data that is then used to perform hazard and risk analysis.
 
-Quick Quiz
+You can follow [the InaSAFE team](http://hotosm.org/projects/indonesia-0) and [the project](http://hotosm.org/projects/inasafe) on the HOT website.
 
-It is true that Activators in the Usability role are required to have university or professional training in spatial analysis?
+HOT highly encourages all of it's volunteers, especially those in the Usability role to explore the [training materials](http://inasafe.org/en/training/index.html) and become familiar with using InaSAFE.
+
+#### Review
+
+Activators in the Usability role are required to have university or professional training in spatial analysis.
 * True
-* False (Correct answer)
+* False
+
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the #courses slack channel on HOT's Slack ( [Request Invite](http://slack.hotosm.org) ) If anyone has any question about the correct answer to a Review question, please ask in the #courses channel of HOT's Slack.
 
 
 
 
- 
