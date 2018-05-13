@@ -1,7 +1,8 @@
 ## Managing Priorities
+
 Now that you know how to build quality projects, let's discuss some tactics for prioritizing many projects for a moderate to major event so all mappers have something to do but the Validators, Activation Leads and OSM users don't pull their hair out trying to figure what is complete/useful.
 
-### Prioritizing Projects Lesson 
+### Prioritizing Projects
 This lesson will cover some example ways that HOT coordinates with partners and people in the field to prioritize mapping.
 
 #### Initial Priorities
@@ -12,7 +13,7 @@ The Activation Lead plus Partner Liaisons will work with the Tasking Activator(s
 
 #### Communicating Priorities
 
-Work with the Reporting Role folks to build and maintain a table of priorities on the wiki-page; the <a target="_blank" href="https://wiki.openstreetmap.org/wiki/2014_West_Africa_Ebola_Response#Mapping_Priority">West Africa Ebola Activation wiki-page</a> is a good example of a complex system to track and maintain project priorities.
+Work with the Reporting Role folks to build and maintain a table of priorities on the wiki-page; the [West Africa Ebola Activation wiki-page](https://wiki.openstreetmap.org/wiki/2014_West_Africa_Ebola_Response#Mapping_Priority) is a good example of a complex system to track and maintain project priorities.
 
 #### Review
 
