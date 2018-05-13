@@ -46,6 +46,9 @@ Which of the following roles on the Activation Team conduct a debriefing (there 
 * Public Relations
 * Communications
 
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the #courses slack channel on HOT's Slack ( [Request Invite](http://slack.hotosm.org) ) If anyone has any question about the correct answer to a Review question, please ask in the #courses channel of HOT's Slack.
+
+
 ## Activation Review
 
 ### Team Feedback
