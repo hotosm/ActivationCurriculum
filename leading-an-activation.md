@@ -4,7 +4,7 @@ This course is required training for, and will teach the essential knowledge req
 
 A key indicator of an effective leader is how well the people around them perform, being able to quickly assess the staffing needs of an Activation, scale the team as change occur, keep staff engaged and preventing burnout is all part of the Activation Lead role.
 
-### Staffing the Team Lesson 
+### Staffing the Team
 As hopefully expected, Activation Lead is mostly about managing others, that starts with thinking about staffing and managing staff(Activation Team) throughout the Activation.
 
 #### Span of Control

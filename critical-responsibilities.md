@@ -1,10 +1,14 @@
 ## Critical Responsibilities
 Ultimately HOT entrusts the fulfillment of the Activation, the health and safety of all the participants and the ultimate results of an Activation to those who voluntarily accept to follow the protocol and be an Activation Lead.
 
-#### Required Reading Book 
+---
+### Items to Read
+#### Required Readings
 Activation Leads will be under the supervision of the Executive Director and will be expected to strictly adhere to both of these documents:
 * <a target="_blank" href="http://hotosm.org/sites/default/files/HOT_Membership_Code.pdf">The HOT Code and Code of Conduct</a>
 * [The Activation Protocol](https://www.hotosm.org/sites/default/files/HOTActivationProtocol_0.pdf)
+
+---
 
 ### Phase 1: Determining Response Lesson 
 This lesson walks through the responsibilities of Activation Leads during Phase One of the Activation Protocol.
