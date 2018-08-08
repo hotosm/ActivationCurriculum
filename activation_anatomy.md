@@ -33,12 +33,12 @@ More on this in Article 3: HOT Readiness; in general our 'day-to-day' operations
 
 The response phase begins as an event unfolds, or if it can be predicted as with a typhoon as example, first responders and aid organizations including HOT may try to get a head-start by responding before there is any impact from the event.
 
-This is when HOT decides whether or not to activate or otherwise what sort of activities or support can be provided from the resources in the Disaster Mapping program, visit [https://www.hotosm.org/what-we-do](https://www.hotosm.org/what-we-do) for more information on all programs.   
+This is when HOT decides whether or not to activate or otherwise what sort of activities or support can be provided from the resources in the Disaster Mapping program, visit [https://www.hotosm.org/what-we-do](https://www.hotosm.org/what-we-do) for more information on all programs.  
 ![Activation Icon](Activation.jpg)
 
 #### Recovery
 
-Although HOT activities may not change for quite some time after the impact of an event has passed and the affected community enters the recovery phase, typically an Activation will begin to wind-down and may be transitioned to another organization or the local OSM community to continue. HOT works throughout an Activation to support the growth of local community as is the hope with all of OSM that the data continues to be added and maintained in perpetuity.   
+Although HOT activities may not change for quite some time after the impact of an event has passed and the affected community enters the recovery phase, typically an Activation will begin to wind-down and may be transitioned to another organization or the local OSM community to continue. HOT works throughout an Activation to support the growth of local community as is the hope with all of OSM that the data continues to be added and maintained in perpetuity.  
 ![Community Icon](Community.jpg)
 
 #### Review
@@ -73,11 +73,11 @@ Because of the successful Activation for Ebola beginning March 2014, HOT was awa
 
 #### Components of an Activation
 
-During the early discussion around developing an Activation Curriculum it became apparent that there are two very distinct components of HOT Activation/the Disaster Mapping Program. There is a protocol\(i.e. process\) that is designed to be strictly followed; to both make a decision to activate and the deliverables/services that entails - and this is what the Activation Working Group has worked hard to better define over the years.
+During the early discussion around developing an Activation Curriculum it became apparent that there are two very distinct components of HOT Activation/the Disaster Mapping Program. There is a protocol\(i.e. process\) that is designed to be closely followed; to both make a decision to activate and the deliverables/services that entails - and this is what the Activation Working Group has worked hard to better define over the years.
 
-[Click here to view the Activation Protocol](https://drive.google.com/open?id=1qefHRE3_wUyG3lMSb7NlkSDtPuQeaQXsflkxt3E3xSA).
+[Click here to view the Activation Protocol](https://github.com/hotosm/hotosm-website/blob/gh-pages/downloads/HOTActivationProtocol.pdf).
 
-The other component, that was more lacking, is a training program to build both the number of competent Activators up, and the overall knowledge and skillset of each individual.
+The other component, that was more lacking, was a training program to build both the number of competent Activators up, and the overall knowledge and skillset of each individual and that is why we built these courses.
 
 There are also ‘tangents’ to HOT Activation, such as enhancements to the Tasking Manager, Export Tool, LearnOSM and all the other tools including those that we will want to build in the future to better fulfill our mission.
 
@@ -100,9 +100,9 @@ During day-to-day operations HOT is continually working to be ready, and improve
 
 #### HOT Programs
 
-* [Disaster Mapping](http://hotosm.org/projects/disaster-mapping) - Which you are learning about in this course.
-* [Community Building](http://hotosm.org/projects/community) - HOT sends trainers and supports locals to build OSM communities around the globe.
-* [Technical Development](http://hotosm.org/projects/technical) - HOT creates and maintains several important OSM related software applications.
+* [Disaster Mapping](https://www.hotosm.org/impact-areas/disaster-response/) - Which you are learning about in this course.
+* [Community Building](https://www.hotosm.org/community/) - HOT sends trainers and supports locals to build OSM communities around the globe.
+* [Technical Development](https://www.hotosm.org/tools-and-data) - HOT creates and maintains several important OSM related software applications.
 
 #### Capacity Building
 
