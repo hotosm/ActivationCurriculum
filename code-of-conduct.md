@@ -24,6 +24,8 @@ In general, the HOT principles are adapted from [https://en.wikipedia.org/wiki/H
 
 During an Activation, those trained as Partner Liaison will be expected to monitor communication for potential partnership opportunities. Often non-profits, as well as first responder or government agents of the local community will discover HOT during an event and may try to reach out through the main mailing list or be introduced through a common collaboration channel such as a Skype room set-up for coordinating the response, through the Digital Humanitarian Network or various social media channels. It is the duty of the Partner Liaisons to make sure those communications are addressed and that contacts are recorded for further communications.
 
+Partner Liaisons may have to use multiple communications channels to effectively meet the partners where they are. Examples include: slack, telegram, whatsapp, signal, IRC, skype.
+
 #### Review
 
 When Partner missions are not in conflict with the HOT mission or principles, Liaisons should strive to fulfill both missions?
