@@ -47,7 +47,7 @@ Not many of our minor Activations generate enough traffic to our website to warr
 
 Hopefully you have already explored the HOT website: [http://hotosm.org/](http://hotosm.org/)
 
-In particular, for Activation reporting please review the "Disaster Mapping" page: [http://hotosm.org/projects/disaster-mapping](http://hotosm.org/projects/disaster-mapping)
+In particular, for Activation reporting please review the "Disaster Mapping" page: [https://www.hotosm.org/impact-areas/disaster-response/](https://www.hotosm.org/impact-areas/disaster-response/)
 
 ### Activation Project Pages
 
