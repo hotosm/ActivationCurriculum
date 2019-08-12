@@ -8,8 +8,8 @@ Ultimately HOT entrusts the fulfillment of the Activation, the health and safety
 
 Activation Leads will be under the supervision of the Executive Director and will be expected to strictly adhere to both of these documents:
 
-* [The HOT Code and Code of Conduct](http://hotosm.org/sites/default/files/HOT_Membership_Code.pdf)
-* [The Activation Protocol](https://www.hotosm.org/sites/default/files/HOTActivationProtocol_0.pdf)
+* [The HOT Code and Code of Conduct](https://www.hotosm.org/code-of-conduct)
+* [The Activation Protocol](https://www.hotosm.org/downloads/HOTActivationProtocol.pdf)
 
 ## Phase 1: Determining Response Lesson
 
