@@ -44,7 +44,7 @@ Which of the following is an example of how geodata might be used during a disas
 * Navigation and Routing
 * Damage Assessments
 
-People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the \#courses slack channel on HOT's Slack \( [Request Invite](http://slack.hotosm.org) \) If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack.
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) can get the answer there. If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack \( [Register](http://slack.hotosm.org) \).
 
 ## Activation Basics
 
@@ -83,6 +83,8 @@ Match the document description with the corresponding source document. Would you
 * This is a section of another document that governs the behavior of HOT volunteers.
 * This document describes the responsibilities and methods for drafting HOT Activation related policies and guidance.
 
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) can get the answer there. If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack \( [Register](http://slack.hotosm.org) \).
+
 ## HOT Readiness
 
 This lesson teaches HOT readiness activities.
@@ -115,5 +117,5 @@ HOT sends people into the field to map, train and build local OpenStreetMap comm
 * True
 * False
 
-People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the \#courses slack channel on HOT's Slack \( [Request Invite](http://slack.hotosm.org) \) If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack.
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) can get the answer there. If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack \( [Register](http://slack.hotosm.org) \).
 
