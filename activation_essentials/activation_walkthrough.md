@@ -42,7 +42,7 @@ Concluding the Activation consists of completing and validating the remaining Ta
 
 During which phase is a decision is made for an appropriate HOT response by the Activation Lead\(s\) after discussion with the Activation Working Group and/or Directors?
 
-People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the \#courses slack channel on HOT's Slack \( [Request Invite](http://slack.hotosm.org) \) If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack.
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) can get the answer there. If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack \( [Register](http://slack.hotosm.org) \).
 
 ## Activation Roster
 
@@ -66,6 +66,5 @@ Which Role performs the event size-up?
 * Data Role
 * Communications
 * Activation Lead
-
-People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the \#courses slack channel on HOT's Slack \( [Request Invite](http://slack.hotosm.org) \) If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack.
+People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) can get the answer there. If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack \( [Register](http://slack.hotosm.org) \).
 
