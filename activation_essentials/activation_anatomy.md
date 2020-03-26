@@ -80,7 +80,7 @@ There are also ‘tangents’ to HOT Activation, such as enhancements to the Tas
 Match the document description with the corresponding source document. Would you find the below items in the Activation Protocol, HOT Code / Code of Conduct or the Activation Working Group Terms of Reference?
 
 * A document that sets the flow of activities during an HOT Activation.
-* This is a section of another document that governs the behavior of HOT volunteers.
+* This document governs the behavior of all HOT volunteers.
 * This document describes the responsibilities and methods for drafting HOT Activation related policies and guidance.
 
 People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) can get the answer there. If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack \( [Register](http://slack.hotosm.org) \).
