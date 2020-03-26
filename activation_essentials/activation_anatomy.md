@@ -37,7 +37,7 @@ Although HOT activities may not change for quite some time after the impact of a
 
 ### Review
 
-Which of the following is an example of how geodata might be used during a disaster?
+Which of the following is an example of how geodata might be used during a disaster (more than one may be correct, select all that apply)?
 
 * Rubble removal calculations
 * Population estimates
