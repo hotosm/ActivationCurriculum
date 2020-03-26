@@ -13,8 +13,6 @@ In this lesson we'll introduce the Disaster Cycle and how HOT activities corresp
 
 ### Phases of Disaster Cycle
 
-In this lesson we'll introduce the Disaster Cycle and how HOT activities correspond.
-
 There are nearly as many ways to explain what HOT refers to as the "Disaster Cycle" as there are organizations involved in disaster. Many of them have a few things in common and most of the first responders you might talk to often say something like 'we are always somewhere within the disaster cycle'.
 
 The Center for Disaster Philanthropy has a pretty good detailed description of what they call the "[Disaster Life Cycle](http://disasterphilanthropy.org/the-disaster-life-cycle/)", but basically the same concept. In this version they describe four phases: mitigation, disaster preparedness, disaster response and disaster recovery.
