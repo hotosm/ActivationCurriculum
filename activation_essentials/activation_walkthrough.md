@@ -6,7 +6,7 @@ Now lets explore the details of when and how HOT activates and the activities pe
 
 Activators are required to be familiar with all the LearnOSM content. For this course, make sure to familiarize yourself with the modules in the Coordination Section.
 
-[LearnOSM Coordination Section](http://courses.hotosm.org/mod/url/view.php?id=40)
+[LearnOSM Coordination Section](https://learnosm.org/en/coordination/)
 
 ## Activation Phases
 
