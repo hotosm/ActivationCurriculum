@@ -28,7 +28,7 @@ The HOT Activation leadership discuss various factors around an event to determi
 
 ![Factors to Determine Response](../.gitbook/assets/determineresponse.jpg)
 
-HOT expects that the Activation Lead\(s\) have been diligent in performing a size-up, reviewing data and imagery, estimating the resource needs, and that they agree to fulfill this Activation Protocol before declaring an Activation.
+HOT expects that the Activation Lead\(s\) have been diligent in performing a size-up, reviewing data and imagery, estimating the resource needs, and that they agree to fulfill the Activation Protocol before declaring an Activation.
 
 ### Phase 2: Response Activities
 
