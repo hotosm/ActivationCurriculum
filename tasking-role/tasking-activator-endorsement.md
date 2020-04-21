@@ -4,9 +4,11 @@ After you have completed the course exam you will be added to the roster as a Ta
 
 ## Part 1: Project Manager Request
 
-Visit [http://tasks-demo.hotosm.org](http://tasks-demo.hotosm.org) and log-in with your OpenStreetMap account, it is not required to do any mapping, just to log-in and give permission for the development instance of the OSM Tasking Manager to access your OSM profile.
+Visit [http://tasks-stage.hotosm.org](http://tasks-stage.hotosm.org) and log-in with your OpenStreetMap account, it is not required to do any mapping, just to log-in and give permission for the development instance of the OSM Tasking Manager to access your OSM profile.
 
-Once you've done so, visit [https://groups.google.com/a/hotosm.org/forum/?hl=en\#!forum/tm-project-managers](https://groups.google.com/a/hotosm.org/forum/?hl=en#!forum/tm-project-managers) and apply for membership; remember to include your OSM Username in the additional information box and briefly introducing yourself; mention that you are taking the course and a little about why you are interested in performing this role and why you think it is important to a successful Activation.
+Once you've done so, visit [https://groups.google.com/a/hotosm.org/forum/?hl=en\#!forum/tm-project-managers](https://groups.google.com/a/hotosm.org/forum/?hl=en#!forum/tm-project-managers) and apply for membership; in the additional information box briefly introducing yourself, mention that you are taking the course and a little about why you are interested in performing this role and why you think it is important to a successful Activation.
+
+Return here and give a brief note that the procedures are complete, remember to include your OSM Username!
 
 You will receive a reply that you have been added to the Project Manager mailing list \(group\) and your OSM account has been given the Project Manager role, proceed to part 2.
 
