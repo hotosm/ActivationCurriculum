@@ -51,7 +51,7 @@ In particular, for Activation reporting please review the "Disaster Mapping" pag
 
 ### Activation Project Pages
 
-If you explore the [Ivory Coast Activation](http://hotosm.org/projects/côte-divoire-0) project page, you will see it contains just a brief description, but also provides a quick link for the more detailed wiki-page and a contact; maybe not essential to Activation coordination, but can catch interest and inform people who find HOT through the website. In contrast, the [West Africa Ebola](http://hotosm.org/projects/west_africa_ebola_epidemic) and [Nepal Earthquakes](http://hotosm.org/projects/nepal_2015_earthquake_response) project pages have many additional updates \(blog posts\) attached. In these cases, this was a huge benefit to the success of the project by keeping up momentum and recruiting additional mappers who probably would not find the wiki-page.
+If you explore the [Ivory Coast Activation](https://www.hotosm.org/projects/ivory_coast) project page, you will see it contains just a brief description, but also provides a quick link for the more detailed wiki-page and a contact; maybe not essential to Activation coordination, but can catch interest and inform people who find HOT through the website. In contrast, the [West Africa Ebola](http://hotosm.org/projects/west_africa_ebola_epidemic) and [Nepal Earthquakes](http://hotosm.org/projects/nepal_2015_earthquake_response) project pages have many additional updates \(blog posts\) attached. In these cases, this was a huge benefit to the success of the project by keeping up momentum and recruiting additional mappers who probably would not find the wiki-page.
 
 ### Creating a Project Page
 
