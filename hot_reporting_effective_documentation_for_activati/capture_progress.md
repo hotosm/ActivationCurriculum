@@ -53,35 +53,37 @@ In particular, for Activation reporting please review the "Disaster Mapping" pag
 
 If you explore the [Ivory Coast Activation](https://www.hotosm.org/projects/ivory_coast) project page, you will see it contains just a brief description, but also provides a quick link for the more detailed wiki-page and a contact; maybe not essential to Activation coordination, but can catch interest and inform people who find HOT through the website. In contrast, the [West Africa Ebola](http://hotosm.org/projects/west_africa_ebola_epidemic) and [Nepal Earthquakes](http://hotosm.org/projects/nepal_2015_earthquake_response) project pages have many additional updates \(blog posts\) attached. In these cases, this was a huge benefit to the success of the project by keeping up momentum and recruiting additional mappers who probably would not find the wiki-page.
 
-### Creating a Project Page
+### Editing the Website
+To create a project page, you must first have at minimum the "writer" role on the HOT website; to set-up your account visit [Siteleaf Account Instructions](https://www.hotosm.org/docs/siteleaf/register) 
 
-To create a project page, you must first have at minimum the "content creator" role on the HOT website; email webmaster@hotosm.org if you do not have a profile or need additional permissions. Once you are logged-in with sufficient access, you should see something like this \(note that depending on permissions you may not see all the settings\).
+Email webmaster@hotosm.org if you need additional assistance or permissions. More guides on [HOT Website Management](https://www.hotosm.org/docs/)
 
+**Creating a Project Page**
+
+For detailed instructions on creating a project page go to [Adding Project Pages](https://www.hotosm.org/docs/guidelines/add-projects)
 Once you have started a new project page, make sure to complete these settings:
 
-* **Project Type:** set this to "Disaster mapping"
-* **Timespan:** most Activations will not have a predicted end-date, uncheck the "show end date" box
-* **Title:** this should match the wiki-page title
-* **Language:** use appropriate language for the project page
-* **Contact:** add a mailto: address, generally "mailto:activation@hotosm.org"
-* **Project Page:** add the link to the wiki-page
-* **Body:** a brief  description of the Activation written for public, contact the communications working group for assistance if needed.
-* **Project Image:** if no good imagery is available, ask the Usability role to make a map. 
-
-![](../.gitbook/assets/project_animated.gif)
+* **Title:** this should match the wiki-page title, or at least have the name of the response included
+* **Main Body:** a brief  description of the Activation written for public, contact the communications working group for assistance if needed.
+* **Summary Text:** a sentence or two that will be displayed on carrousels and cards in various places on website as teaser for the main page.
+* **Featured Image:** See the instructions, you have a choice to either use a static image, or a map for the header of your project page. 
+* **Impact Area:** set this to "Disaster mapping", it is possible to add more impact areas if necessary.
+* **Person:** typically this will be the Activation lead or Public Relations person(s), links directly to their profile
+* **Partner:** add any partner organizations directly involved in the response
+* **Duration:** most Activations will not have a predicted end-date, leave end-date blank until sure
+* **TM_Campaigns:** this will link with TM projects of the same campaign for map view
 
 **Creating an Update**
 
-Very similar to creating the project page, just click "Add update" instead. Make the settings:
+Very similar to creating the project page, just follow [Writing Blog Posts](https://www.hotosm.org/docs/guidelines/blog-posts):
 
 * **Title:** try to make it short but informative
-* **Language:** use appropriate language for post, shorter posts might contain multiple languages, in that case use the language of the project page
-* **Related Project:** pick the corresponding project from the drop down
-* **Working Group:** choose "Activation"
-* **Update Tags:** optionally add tags for the region or other common subjects
-* **Body:** write the article for a public audience, avoid acronyms and technical or insider language; ask the communication working group for assistance if desired.
-* **Images:** it is highly encouraged to add an image to every post
-* **Documents:** additionally you can attach documents to a post
+* **Main Body:** write the article for a public audience, avoid acronyms and technical or insider language; ask the communication working group for assistance if desired.
+* **Summary Text:** a sentence or two that will be displayed on carrousels and cards in various places on website as teaser for the main page.
+* **FeaturedImage:** the image that will correspond to the article on the main page as well as appear at the top of the post, see guides for image recommendations
+* **Person:** typically this will be the Activation lead or Public Relations person(s) (i.e. the blog author), links directly to their profile
+* **Working Group:** typically choose "Activation"
+* **Project:** pick the corresponding project from the drop down
 
 ### Review
 
