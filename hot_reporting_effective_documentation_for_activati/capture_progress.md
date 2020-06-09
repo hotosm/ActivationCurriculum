@@ -85,7 +85,7 @@ Very similar to creating the project page, just click "Add update" instead. Make
 
 ### Review
 
-If the settings are correct on a website update, the post will automatically be attached to the Activation's project page?
+If the settings are correct on a website update, the post will automatically be attached to the existing Activation's project page?
 
 * True
 * False
