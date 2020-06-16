@@ -43,7 +43,7 @@ The main point of the debrief is for the Activation Lead\(s\) to tell the team h
 * Mostly the communication within the Activation Team as well as with the community was excellent, there seemed to be little question or confusion from the mappers about what was asked and how best to participate.
 * Reporting was great with many nice visuals and use showcase that contributed to a motivated community.
 
-  **Review**
+### Review
 
   Which of the following roles on the Activation Team conduct a debriefing \(there may be more than one correct answer\)?
 
