@@ -55,7 +55,7 @@ It is typically easier to tell the story of how effective our geodata generation
 Here are a few examples that showcase OSM usage and helped contribute to a more motivated volunteer workforce:
 
 * [Ebola Tracking](http://umap.openstreetmap.fr/en/map/ebola-e-tracking-in-sierra-leone-liberia-and-guine_12522#7/6.474/-10.789) in Sierra Leone
-* [Quakemap.org](http://quakemap.org/) for coordinating needs reports after the Nepal Earthquakes
+* [Quakemap.org](http://www.kathmandulivinglabs.org/projects/quakemaporg) for coordinating needs reports after the Nepal Earthquakes, note the original app has been taken down, but this story still describes the usage.
 * [GDAC Map](https://unosat.maps.arcgis.com/apps/webappviewer/index.html?id=b9f9da798f364cd6a6e68fc20f5475eb) for responding to the Nepal Earthquakes
 
   The Reporting Activator\(s\) are not creating these, but adding links to them on the Activation wiki-page and linking them in blog-posts, emails and other messaging.
