@@ -45,7 +45,7 @@ The main point of the debrief is for the Activation Lead\(s\) to tell the team h
 
 ### Review
 
-  Which of the following roles on the Activation Team conduct a debriefing \(there may be more than one correct answer\)?
+  Which of the following roles on the Activation Team conduct a debriefing \(there may be more than one correct answer, but you only have to choose one\)?
 
 * Reporting
 * Activation Lead
