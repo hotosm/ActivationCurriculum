@@ -79,8 +79,8 @@ Very similar to creating the project page, just follow [Writing Blog Posts](http
 
 * **Title:** try to make it short but informative
 * **Main Body:** write the article for a public audience, avoid acronyms and technical or insider language; ask the communication working group for assistance if desired.
-* **Summary Text:** a sentence or two that will be displayed on carrousels and cards in various places on website as teaser for the main page.
-* **FeaturedImage:** the image that will correspond to the article on the main page as well as appear at the top of the post, see guides for image recommendations
+* **Summary Text:** a sentence or two that will be displayed on carousels and cards in various places on website as teaser for the main page.
+* **Featured Image:** the image that will correspond to the article on the main page as well as appear at the top of the post, see guides for image recommendations
 * **Person:** typically this will be the Activation lead or Public Relations person(s) (i.e. the blog author), links directly to their profile
 * **Working Group:** typically choose "Activation"
 * **Project:** pick the corresponding project from the drop down
