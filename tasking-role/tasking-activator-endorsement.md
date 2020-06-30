@@ -10,17 +10,17 @@ Once you've done so, visit [https://groups.google.com/a/hotosm.org/forum/?hl=en\
 
 Return here and give a brief note that the procedures are complete, remember to include your OSM Username!
 
-You will receive a reply that you have been added to the Project Manager mailing list \(group\) and your OSM account has been given the Project Manager role, proceed to part 2.
+You will receive a reply that you have been added to the Project Manager mailing list \(group\) and you will be scheduled for a training session. Due to the limited number of trainers and the volume of training requests we get, this could take several weeks to schedule.
 
 ## Part 2: Draft Project
 
-Create a draft project on the development instance of the OSM Tasking Manager, make sure to include thorough instructions and other appropriate settings.
+You will be trained as if you were going to be an administrator of a new organization. Where possible, we may schedule your training with other Tasking Activators or Organization Admins. After completing the training, create a draft project on the development instance (tasks-stage.hotosm.org) of the OSM Tasking Manager, make sure to include thorough instructions and other appropriate settings.
 
 Once you are satisfied, insert a link to the project and a brief description of the desired outcomes into the text submission box for this assignment.
 
-An experience Tasking Role Activator will review your draft project, provide feedback and once satisfied will grant your OSM account Project Manager permissions on the main instance of the OSM Tasking Manager here: [http://tasks.hotosm.org/](http://tasks.hotosm.org/)
+An experienced Tasking Role Activator will review your draft project, provide feedback and once satisfied will grant your OSM account permission(s) on the main instance of the OSM Tasking Manager here: [http://tasks.hotosm.org/](http://tasks.hotosm.org/) - this may be as an admin of a HOT managed organization, or as part of a team that can be used to manage existing projects.
 
 ## Part 3: Disaster Mapping Project
 
-The final step to gain endorsement for the Tasking Role is during an Activation or simulation, coordinate with Activation Lead\(s\), Data, Imagery and Validation roles to maintain priorities and/or create project\(s\); provide a brief description of the activities performed and the names of the Activators you collaborated with in the text box for this assignment.
+The final step to gain endorsement for the Tasking Role is during an Activation or simulation, coordinate with Activation Lead\(s\), Data, Imagery and Validation roles to maintain priorities and/or create project\(s\); provide a brief description of the activities performed and the names of the Activators you collaborated with in the text box for this assignment. Hint: the best way to accomplish this is to stay tuned to the disaster-mapping channel in Slack or the Activation Working Group email and volunteer whenever there is an opportunity.
 
