@@ -20,7 +20,7 @@ Work with the Reporting Role folks to build and maintain a table of priorities o
 
 ### Review
 
-Tasking Role folks are solely responsible for setting and maintaining mapping project priority?
+Tasking Role Activators are solely responsible for setting and maintaining mapping project priority?
 
 * True
 * False
