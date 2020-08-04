@@ -4,7 +4,7 @@ Not only do you need to know the basics of how the Tasking Manager works to crea
 
 ### LearnOSM: Tasking Manager
 
-Before creating tasks, make sure you are familiar with how the user interacts with the Tasking Manager by working through [the Tasking Manager LearnOSM module](http://learnosm.org/en/coordination/tasking-manager/).
+Before creating tasks, make sure you are familiar with how the user interacts with the Tasking Manager by working through [Tasking Manager User Guide](https://learnosm.org/en/coordination/tm-user/). Then continue on to the next section [Tasking Manager Administrator Guide](https://learnosm.org/en/coordination/tm-admin/)
 
 ## OSM Tasking Manager
 
