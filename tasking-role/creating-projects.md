@@ -10,20 +10,20 @@ Before creating tasks, make sure you are familiar with how the user interacts wi
 
 ### Before You Build
 
-Before creating the project in the Tasking Manager, make sure the priorities for both the area of interest and the [COD/FOD](http://learnosm.org/en/beginner/glossary/) objective\(s\); work with the Data and Imagery roles to determine what imagery should be used and the appropriate tagging scheme.
+Before creating the project in the Tasking Manager, make sure the priorities for both the area of interest and the [COD/FOD](http://learnosm.org/en/beginner/glossary/) makes sense; work with the Data and Imagery roles to determine what imagery should be used and the appropriate tagging scheme.
 
-In some cases the Tasking Manager is not a good tool for coordination, if the project is sensitive, maps features that are long and continuous like borders or waterways, or sometimes if the area of interest is small there may be too many mappers and the potential for conflict, etc. makes the objective not fit; other tools like Mapmill or TomNod microtasking platforms or just a few mappers using the JOSM GeoChat plug-in might be a better fit.
+In some cases the Tasking Manager is not a good tool for coordination, if the project is sensitive, maps features that are long and continuous like borders or waterways, or sometimes if the area of interest is small there may be too many mappers and the potential for conflict, etc. makes the objective not fit; other tools like Mapswipe or MapRoulette microtasking platforms or just a few mappers using the JOSM GeoChat plug-in might be a better fit.
 
 ### Project Creation \(Steps 1 - 3\)
 
 Step 1 of project creation on the tasking manager, you select the area of interest/set the bounding of the project. There are two ways to do this:
 
 * Drawing by hand
-* Import a file \(always try and do this, currently only GeoJSON and KML supported\)
+* Import a file \(such as an admin boundary\)
 
 Step 2 is to choose either square or arbitrary geometry for the tasks.
 
-Step 3 is to select the tile size, this is where experience helps as we typically want the tasks to be completed in no more than one hour, but if the task is more difficult or tedious maybe 15-20 minutes is better.
+Step 3 is to select the tile size, this is where experience helps as we typically want the tasks to be completed in no more than 30 minutes, but if the task is more difficult or tedious maybe 5-10 minutes is better.
 
 ### Project Settings
 
@@ -34,8 +34,7 @@ Once the task is created, it is by default only a draft. There are many settings
 * Area: Modify the area of the project.
 * Imagery: Add imagery links here and set any license agreement required.
 * Priority Areas: Additionally you have 'high-priority' areas in the project, set them here.
-* Allowed Users: 'White-list' the users that can access the project - used for 'privatizing' a project.
-* Misc: Currently allows setting a due date and JOSM preset.
+* Permissions: allow any user to map and validate, or restrict by mapper level or allow only teams
 
 ### Making Clear Instructions
 
