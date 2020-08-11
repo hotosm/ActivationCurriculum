@@ -21,20 +21,22 @@ Step 1 of project creation on the tasking manager, you select the area of intere
 * Drawing by hand
 * Import a file \(such as an admin boundary\)
 
-Step 2 is to choose either square or arbitrary geometry for the tasks.
+Step 2 is to choose either square or arbitrary geometry for the tasks (from your loaded file in step 1).
 
-Step 3 is to select the tile size, this is where experience helps as we typically want the tasks to be completed in no more than 30 minutes, but if the task is more difficult or tedious maybe 5-10 minutes is better.
+Step 3 is to select the tile size, this is where experience helps as we typically want the tasks to be completed in no more than 30 minutes, but if the task is more difficult or tedious maybe 5-10 minutes is better. A good rule of thumb is 1 square kilometer for rural road projects, down to .1 square kilometer (or less) for urban buildings.
 
 ### Project Settings
 
-Once the task is created, it is by default only a draft. There are many settings and field that need to be complete before the task is published: Description Tab:
+Once the task is created, it is by default only a draft. There are many settings and field that need to be complete before the task is published: 
 
-* Fill out the name, description and set the priority and status here.
+* Description Tab: Fill out the name, short and long descriptions as well as set the priority and status here.
 * Instructions: Set the entities \(map features\) for the project, changeset comment and provide instructions here \(more on instructions later\).
-* Area: Modify the area of the project.
-* Imagery: Add imagery links here and set any license agreement required.
+* Metadata: Set the level, types of mapping, any iD preset restrictions, organization, campaign, category and optionally OSMCha filters
 * Priority Areas: Additionally you have 'high-priority' areas in the project, set them here.
-* Permissions: allow any user to map and validate, or restrict by mapper level or allow only teams
+* Imagery: Add imagery links here and set any license agreement required.
+* Permissions: allow any user to map and validate, or restrict by mapper level or allow only teams, additionally allow a team to manage the project.
+* Actions: this is where you may mark (all) tasks as complete, or start over, message everyone, transfer ownership, clone or delete the project.
+* Custom Editor: this is where you enter the URL for a custom editor that can be opened by the user from the task selection area of the project.
 
 ### Making Clear Instructions
 
