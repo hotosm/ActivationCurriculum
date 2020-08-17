@@ -18,7 +18,7 @@ You will be trained as if you were going to be an administrator of a new organiz
 
 Once you are satisfied, insert a link to the project and a brief description of the desired outcomes into the text submission box for this assignment.
 
-An experienced Tasking Role Activator will review your draft project, provide feedback and once satisfied will grant your OSM account permission(s) on the main instance of the OSM Tasking Manager here: [http://tasks.hotosm.org/](http://tasks.hotosm.org/) - this may be as an admin of a HOT managed organization, or as part of a team that can be used to manage existing projects.
+An experienced Tasking Role Activator will review your draft project, provide feedback and once satisfied will grant your OSM account permission(s) on the main instance of the OSM Tasking Manager here: [http://tasks.hotosm.org/](http://tasks.hotosm.org/) - this may be as an admin of a HOT managed organization, or as part of a team that can be used to manage existing projects. Make sure you've visited and logged into tasks.hotosm.org in order for your username to appear in the database.
 
 ## Part 3: Disaster Mapping Project
 
