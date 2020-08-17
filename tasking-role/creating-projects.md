@@ -44,7 +44,7 @@ Make sure the instructions are clear and easy to understand, many volunteer mapp
 
 ### Review
 
-Tasking Manager instructions will be translated into all languages regularly used in HOT.
+Tasking Manager instructions will be automatically translated into all languages regularly used in HOT.
 
 * True
 * False
