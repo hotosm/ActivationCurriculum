@@ -20,10 +20,15 @@ Step 1 of project creation on the tasking manager, you select the area of intere
 
 * Drawing by hand
 * Import a file \(such as an admin boundary\)
+** If you import a file, you additionally may select if that file defines the tasks (abritrary geometry).
 
-Step 2 is to choose either square or arbitrary geometry for the tasks (from your loaded file in step 1).
+Step 2 is to define the size of the tasks (if you did not import and select abritrary geometry in step 1).
+* This is where experience helps as we typically want the tasks to be completed in no more than 30 minutes, but if the task is more difficult or tedious maybe 5-10 minutes is better. A good rule of thumb is 1 square kilometer for rural road projects, down to .1 square kilometer (or less) for urban buildings.
+* Here you may choose to also split individual (or groups of) task(s) to be smaller than the remaining tasks in the project.
 
-Step 3 is to select the tile size, this is where experience helps as we typically want the tasks to be completed in no more than 30 minutes, but if the task is more difficult or tedious maybe 5-10 minutes is better. A good rule of thumb is 1 square kilometer for rural road projects, down to .1 square kilometer (or less) for urban buildings.
+Step 3 is to trim the tasks:
+* Here you can either choose to trim to the exact shape of your area.
+* Or you can choose to trim but leave the tasks uniform.
 
 ### Project Settings
 
