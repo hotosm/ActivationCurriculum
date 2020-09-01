@@ -51,7 +51,7 @@ There are also many other tools for OpenStreetMap data inspection. Here are just
 
 ### Review
 
-JOSM is the only tool Validation Activators need for the entire validation process.
+Is JOSM required for the entire validation process?
 
 * True
 * False
