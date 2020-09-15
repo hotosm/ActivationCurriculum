@@ -66,7 +66,7 @@ If the mapper isn't responding or changing behavior via comments or invalidating
 
 ### Urgent Contact
 
-If there is an urgency in trying to reach a mapper - because of potential vandalism or timeliness to the Activation objectives, make sure to inform the Activation Lead\(s\), they may know other ways to contact the mapper or if it needs to be escalated to the OpenStreetMap Foundation Data Working Group, they will need to be involved.
+If there is an urgency in trying to reach a mapper - because of potential vandalism or timeliness to the Activation objectives, make sure to inform the Activation Lead\(s\), they may know other ways to contact the mapper or if it needs to be escalated to the OpenStreetMap Foundation [Data Working Group](https://wiki.osmfoundation.org/wiki/Data_Working_Group), they will need to be involved.
 
 ### Review
 
