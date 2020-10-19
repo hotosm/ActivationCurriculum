@@ -28,9 +28,11 @@ The key here is that Validation Activators are both doing due diligence in revie
 
 No other editor is quite up to the challenge of doing robust data quality and validity checks like JOSM. Designed to facilitate large area, long-term, offline editing with a built in validation feature with the a large community of third-party plug-in developers there is almost no tool for validators that compares.
 
-### JOSM Validation Feature
+### JOSM Validation Features
 
 By default JOSM should run it's validation function anytime you try to upload data to OpenStreetMap. The OpenStreetMap[ wiki-page on the JOSM Validator](http://wiki.openstreetmap.org/wiki/JOSM/Validator) explains the types of validation performed. We will return to the the JOSM validator in the next lesson.
+
+Additionally, not exactly a validation tool in general, but "MapPaint" styles can assist. As the name suggests, the many MapPaint styles change the look of the OpenStreetMap data in JOSM. Often highlighting particular features, or - particular errors or potential problems. See the [JOSM Wiki](https://josm.openstreetmap.de/wiki/Styles) for more information on how to use MapPaint styles and a long list of most (but likely not all) MapPaint styles that you can use.
 
 ### Helpful JOSM Plug-ins
 
