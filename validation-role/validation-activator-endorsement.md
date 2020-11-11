@@ -4,11 +4,11 @@ After you have completed the course exam you will be added to the roster as a Va
 
 ## Part 1: Introduction
 
-In an email to your mentor, briefly tell us why you are interested in performing this role and why you think it is important to a successful Activation.
+In the text box below, briefly tell us why you are interested in performing this role and why you think it is important to a successful Activation.
 
 ## Part 2: Tile Validation
 
-Validate any project tile, giving appropriate feedback to the mapper; provide a link to the project tile in an email to your mentor.
+Validate any project tile, giving appropriate feedback to the mapper; provide a link to the project tile in the text box below.
 
 ## Part 3: Activation Validation
 
