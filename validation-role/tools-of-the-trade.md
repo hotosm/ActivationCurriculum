@@ -40,7 +40,6 @@ JOSM Plug-ins are further explored in the LearnOSM: JOSM Plug-ins Module. For va
 
 * Building Tool Plug-in: many times you will likely be adding buildings missed by the mappers - the buildings tool is the quickest and easiest clean-up tool for this.
 * Imagery Offset Db: if you need to quickly see if features should be shifted, this is a helpful tool.
-* Mirrored Download: a must for doing large area validation.
 
 ### Other Helpful Tools
 
