@@ -4,7 +4,7 @@ Before getting into the details of HOT operations, let's look at where the conce
 
 ## Reading Materials
 
-* HOT Community Code of Conduct: The HOT Code of Conduct is required of all who wish to be involved in the HOT community. Link: [https://www.hotosm.org/code-of-conduct.html](https://www.hotosm.org/code-of-conduct.html)
+* HOT Community Code of Conduct: The HOT Code of Conduct is required of all who wish to be involved in the HOT community. You agreed to it when accessing these courses; if you skimmed, now is the time to read it. Link: [https://www.hotosm.org/code-of-conduct.html](https://www.hotosm.org/code-of-conduct.html)
 * HOT Activation Protocol: The Activation Protocol defines the flow of activities during a HOT Activation and describes how our trained volunteers perform the tasks that lead to a successful and efficient response. Link: [https://www.hotosm.org/downloads/HOTActivationProtocol.pdf](https://www.hotosm.org/downloads/HOTActivationProtocol.pdf)
 
 ## Disaster Cycle
