@@ -40,7 +40,7 @@ Concluding the Activation consists of completing and validating the remaining Ta
 
 ### Review
 
-During which phase is a decision is made for an appropriate HOT response by the Activation Lead\(s\) after discussion with the Activation Working Group and/or Directors?
+During which phase is a decision is made for an appropriate HOT response by the Activation Lead\(s\) after discussion with the Activation Working Group and/or Directors? (enter only the number, do **not** include the word "phase")
 
 People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) can get the answer there. If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack \( [Register](http://slack.hotosm.org) \).
 
