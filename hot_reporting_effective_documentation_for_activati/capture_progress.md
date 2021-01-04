@@ -4,7 +4,7 @@ This unit covers the basic documentation and reporting HOT expects when an Activ
 
 ## Items to Read
 
-[LearnOSM: Editing the Wiki URL](http://learnosm.org/en/intermediate/editing-the-wiki/) To complete this Unit you will need to be familiar with wiki editing, complete or review this LearnOSM module.
+[LearnOSM: Editing the Wiki URL](https://learnosm.org/en/coordination/editing_the_wiki/) To complete this Unit you will need to be familiar with wiki editing, complete or review this LearnOSM module.
 
 ## OSM Wiki
 
