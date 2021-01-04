@@ -41,7 +41,7 @@ For that extra motivation and/or gratification, here are some examples of report
 
 * A [Before and After Map of Nepal](http://pierzen.dev.openstreetmap.org/hot/leaflet/OSM-Compare-before-after.html#11/27.7665/85.4345)
 * A series of tools at [ResultMaps](http://resultmaps.neis-one.org/) including one for showing [New Mappers](http://resultmaps.neis-one.org/newestosm?zoom=9&lat=27.92779&lon=85.18661&layers=0B0TTT)
-* An animation of [Road Tracing](https://www.mapbox.com/blog/nepal-earthquake-animation/) during the first days of Nepal Activation.
+* An animation of [Road Tracing](https://twitter.com/mapbox/status/593057323993534464) during the first days of Nepal Activation.
 * A comprehensive [Statistics 'Storyboard'](http://osm.townsendjennings.com/nepal/) from Nepal Activation.
 
   As you may note, many of these were created by partners or community members not directly involved with the Activation Team.
