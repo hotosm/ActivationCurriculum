@@ -8,7 +8,7 @@ This unit covers the basic documentation and reporting HOT expects when an Activ
 
 ## OSM Wiki
 
-Not all Activations will the same level of documentation and reporting, a wiki-page is usually the 'bare minimum' of documentation to begin an Activation.
+Not all Activations will require the same level of documentation and reporting, a wiki-page is usually the 'bare minimum' of documentation to begin an Activation.
 
 ### HOT Wikipage
 
