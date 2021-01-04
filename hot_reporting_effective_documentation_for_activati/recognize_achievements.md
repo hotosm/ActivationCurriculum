@@ -44,7 +44,7 @@ For that extra motivation and/or gratification, here are some examples of report
 * An animation of [Road Tracing](https://twitter.com/mapbox/status/593057323993534464) during the first days of Nepal Activation.
 * A comprehensive [Statistics 'Storyboard'](http://osm.townsendjennings.com/nepal/) from Nepal Activation.
 
-  As you may note, many of these were created by partners or community members not directly involved with the Activation Team.
+Note: As you may recognize, many of these were created by partners or community members not directly involved with the Activation Team.
 
 ### Capturing Usage Stories
 
@@ -58,7 +58,7 @@ Here are a few examples that showcase OSM usage and helped contribute to a more 
 * [Quakemap.org](http://www.kathmandulivinglabs.org/projects/quakemaporg) for coordinating needs reports after the Nepal Earthquakes, note the original app has been taken down, but this story still describes the usage.
 * [GDAC Map](https://unosat.maps.arcgis.com/apps/webappviewer/index.html?id=b9f9da798f364cd6a6e68fc20f5475eb) for responding to the Nepal Earthquakes
 
-  The Reporting Activator\(s\) are not creating these, but adding links to them on the Activation wiki-page and linking them in blog-posts, emails and other messaging.
+Note: The Reporting Activator\(s\) are not creating these, but adding links to them on the Activation wiki-page and linking them in blog-posts, emails and other messaging.
 
 ### Review
 
