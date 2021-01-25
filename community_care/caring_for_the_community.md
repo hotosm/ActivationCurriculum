@@ -6,7 +6,7 @@ This unit will teach how to recognize situations or individuals putting themselv
 
 If there is one thing you read about the legal responsibilities and risks of contributing as a digital volunteer, this article published by the Wilson Center should be it.
 
-This publication of the Wilson Center, by Edward S. Robson, Esq. reads quick and provides a ton of information regarding the legal risks and protections for digital humanitarians: [https://www.wilsoncenter.org/sites/default/files/responding\_to\_liability\_1.pdf](https://www.wilsoncenter.org/sites/default/files/responding_to_liability_1.pdf)
+This publication of the Wilson Center, by Edward S. Robson, Esq. reads quick and provides a ton of information regarding the legal risks and protections for digital humanitarians [Responding to Liability](https://drive.google.com/file/d/1pEaIr2cgBvcpszyqd3zmNP6TERKwXE1D/view?usp=sharing)
 
 ## Legal Risks
 
