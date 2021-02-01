@@ -107,7 +107,7 @@ Further outlined in the Activation Protocol, these items need to be managed by t
 
 Closely related to helping partner organizations make clear requests that mappers can fulfill, assistance may be required in getting and using the data. Typically tasked to the Usability role, Activation Lead\(s\) may need to be involved to oversee that data is efficiently delivered and that 'down-stream' users will know limitations, expectations and limited liability of OpenStreetMap.
 
-Also, every so often, the HOT tools and services provided run into a technical glitch. If the Activation Team cannot resolve the issue internally, the Activation Lead\(s\) should email sysadmin@hotosm.org and/or jump on the \#hot IRC channel to discuss and make aware the system administrators. Make sure to follow-through and test that the issue has been resolved.
+Also, every so often, the HOT tools and services provided run into a technical glitch. If the Activation Team cannot resolve the issue internally, the Activation Lead\(s\) should email sysadmin@hotosm.org and/or jump on the \#sysadmin Slack channel to discuss and make aware the system administrators. Make sure to follow-through and test that the issue has been resolved.
 
 ### Monitor Event Scope
 
