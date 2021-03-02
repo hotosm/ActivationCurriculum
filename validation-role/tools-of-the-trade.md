@@ -6,7 +6,7 @@ This unit will introduce the various ‘essential’ validation tools as well as
 
 ### LearnOSM: Tasking Manager
 
-Hopefully you've seen the [LearnOSM module dedicated to the Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) by now, please make a quick review; or take some time to go through it if it's your first time.
+Hopefully you've seen the [LearnOSM module dedicated to the Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) by now, please make a quick review; or take some time to go through it if it's your first time. *Remember to click on the green our version overview and select the Tasking Manager 4 version.*
 
 ### LearnOSM: JOSM - Detailed Editing Section
 
