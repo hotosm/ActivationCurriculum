@@ -4,7 +4,7 @@ This unit will discuss the various risks to physical and mental well-being while
 
 ### Items to Read
 
-[Ushahidi Blog Post](http://courses.hotosm.org/mod/url/view.php?id=80) - To begin to understand the real risk to digital volunteers, read this guest article posted to Ushahidi by HOT's own Heather Leson.
+[Ushahidi Blog Post](http://courses.hotosm.org/mod/url/view.php?id=80) - To begin to understand the real risk to digital volunteers, read this guest article posted on the Ushahidi.
 
 ### Physical Health Risks
 
