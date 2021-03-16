@@ -30,7 +30,7 @@ During an Activation the Usability Activators may be under pressure from Activat
 Even during Activations of smaller scope, but especially moderate and major events, the Usability Activator\(s\) should try to get ahead of the game by working with the Reporting and Public Relations Activator\(s\) to document that HOT is generating data and instructions of where and how to get it. Typically these can be one or more of the following:
 
 * On the Activation Wiki-page, view the [section in the West Africa Ebola wiki](https://wiki.openstreetmap.org/wiki/2014_West_Africa_Ebola_Response#Exporting_OpenStreetMap_data) as example, and explore others.
-* On the [Humanitarian Data eXchange](https://data.hdx.rwlabs.org/), post a sample extract - the Activation Lead or potentially other endorsed Activators have or can get the HOT log-in information.
+* On the [Humanitarian Data eXchange](https://data.humdata.org/), with a special token on your Export Tool log-in, you can send exports straight to HDX.
 * Through other messaging such as website blog/updates, email, social media, etc. - work with Public Relations.
 
 ### Review
