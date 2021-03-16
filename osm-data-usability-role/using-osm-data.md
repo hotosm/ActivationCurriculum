@@ -26,11 +26,11 @@ Our partners tell us they are using OpenStreetMap for all their geodata needs, f
 
 ### HOT and InaSAFE
 
-HOT was selected to help train and promote the [InaSAFE plug-in for QGIS](http://inasafe.org/en/). Since 2011 our team in Indonesia has been heavily involved in growing the OSM community there to collect exposure data that is then used to perform hazard and risk analysis.
+HOT was selected to help train and promote the [InaSAFE plug-in for QGIS](http://inasafe.org/home/index.html). Since 2011 our team in Indonesia has been heavily involved in growing the OSM community there to collect exposure data that is then used to perform hazard and risk analysis.
 
-You can follow [the InaSAFE team](http://hotosm.org/projects/indonesia-0) and [the project](http://hotosm.org/projects/inasafe) on the HOT website.
+You can follow [the InaSAFE team](https://www.hotosm.org/where-we-work/indonesia/) and [the project](https://www.hotosm.org/projects/dam-safety-and-public-protection-through-inasafe) on the HOT website.
 
-HOT highly encourages all of it's volunteers, especially those in the Usability role to explore the [training materials](http://inasafe.org/en/training/index.html) and become familiar with using InaSAFE.
+HOT highly encourages all of it's volunteers, especially those in the Usability role to explore the [training materials](http://inasafe.org/for-users/index.html) and become familiar with using InaSAFE.
 
 ### Review
 
