@@ -6,7 +6,7 @@ There are so many ways to use OSM data and we can't cover them all here; this un
 
 ### LearnOSM: Setting up PostgreSQL
 
-Some requests for assistance might include how to use the data inside a database, before we get into using OSM data, [this LearnOSM module](http://learnosm.org/en/osm-data/setting-up-postgresql/) shows some basics about databases using QGIS and PostgreSQL.
+Some requests for assistance might include how to use the data inside a database, before we get into using OSM data, [this LearnOSM module](https://learnosm.org/en/osm-data/postgresql/) shows some basics about databases using QGIS and PostgreSQL.
 
 ### LearnOSM: Using OSM Data in QGIS
 
