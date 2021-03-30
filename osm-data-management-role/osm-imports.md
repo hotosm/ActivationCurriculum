@@ -18,7 +18,7 @@ The single most important factor to whether or not a dataset should be imported 
 * Non-commercial - this is an absolute no, unless the original author grants explicit permission.
 * Any proprietary license that would normally be illegal to copy.
 
-Even with very restrictive license, if the original author/creator of the data is willing to grant explicit permission, it can be imported into OpenStreetMap; HOT has a [form-letter ](https://drive.google.com/open?id=0B6eiTej1JHydRlZhM3FZX3JmcEU)that fulfill that explicit permission granting.
+Even with very restrictive license, if the original author/creator of the data is willing to grant explicit permission, it can be imported into OpenStreetMap; There are a vareity of templates on the [OSM Wiki](https://wiki.openstreetmap.org/wiki/Import/Getting_permission) that may fulfill that explicit permission granting.
 
 ### Import Process
 
