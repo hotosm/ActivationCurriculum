@@ -11,16 +11,16 @@ Review the [HOT Membership Code](https://github.com/hotosm/hotosm-website/blob/g
 * Section II, clause 2. - an effective liaison will understand their counterpart's mission and principles and communicate to the HOT community how and why our missions align for an effective partnership.
 * Section II, clause 4. - this clause is written almost directly to liaisons, as well as the community if/when they are talking to partners; in general, liaisons should know and comply with HOT policy and guidance or ask an HOT Director for clarification when dealing with partners.
 
-### HOT Mission and Principles
+### HOT Mission and Values
 
-In order to determine if an existing or potential partnership is a good fit, liaisons need to first know and understand HOT's mission and principles.
+In order to determine if an existing or potential partnership is a good fit, liaisons need to first know and understand HOT's mission and values.
 
 The HOT mission statement is:  
 The Humanitarian OpenStreetMap Team \[HOT\] applies the principles of open source and open data sharing for humanitarian response and economic development.
 
-And the community has drafted principles, but at the time of creating this course, they had not yet been officially adopted. The draft principles, as well as discussion, can be found here: [https://hackpad.com/Mission-Statement-and-Principles-pOyhfqngvdQ](https://hackpad.com/Mission-Statement-and-Principles-pOyhfqngvdQ)
+The Strategic Working Group drafted values into the most current version of the: [HOT Strategic Plan](https://www.hotosm.org/strategic-plan)
 
-In general, the HOT principles are adapted from [https://en.wikipedia.org/wiki/Humanitarian\_principles](https://en.wikipedia.org/wiki/Humanitarian_principles) to include some more language about open source and digital working environments.
+In general, the HOT values are adapted from [https://en.wikipedia.org/wiki/Humanitarian\_principles](https://en.wikipedia.org/wiki/Humanitarian_principles) to include some more language about open source and digital working environments.
 
 ### Duty During Activation
 
