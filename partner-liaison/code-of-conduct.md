@@ -1,7 +1,5 @@
 # Representing HOT
 
-\#
-
 ## Representing HOT
 
 ### Code of Conduct
