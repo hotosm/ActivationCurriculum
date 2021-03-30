@@ -44,7 +44,7 @@ When there is enough time and the map feature is significant and expected to be 
 Choose the scenario that is most appropriate for Data Activators to engage in the proposal process.
 
 * A new feature is identified by remote mappers, the feature is not unique to the region and it is expected that millions of them exist across the globe and are easily identifiable from both imagery and field survey.
-* A feature is identify that is similar to another, a single mapper suggest it be tagged as something different.
+* A feature is identified that is similar to another, a single mapper suggest it be tagged as something different.
 * A new feature is identified by local contributors, it is only found in the region and not very widely known about
 
 People reading this material for credit on [the HOT Courses website](http://courses.hotosm.org/) should share their answer in the \#courses slack channel on HOT's Slack \( [Request Invite](http://slack.hotosm.org) \) If anyone has any question about the correct answer to a Review question, please ask in the \#courses channel of HOT's Slack.
