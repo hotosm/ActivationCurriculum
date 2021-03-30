@@ -33,5 +33,5 @@ There are several steps to the import process once the license has been verified
 
 ### Review
 
-The first and most important step of an import is to verify the what complies with the ODbL?
+The first and most important step of an import is to verify the _what?_ complies with the ODbL?
 
