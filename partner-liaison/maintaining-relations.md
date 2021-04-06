@@ -8,14 +8,14 @@ Of course those interested in becoming liaisons should know who our current part
 
 As we are constantly making new connections, the following is only a brief list of current partners at the creation of this course:
 
-* The Red Cross - most significant collaborations with American and British Red Cross
+* Members of the [Missing Map](https://www.missingmaps.org/) which HOT is a founding member are listed on the about page, https://www.missingmaps.org/about/ - all of them we have partnered with on some level.
 * Various UN agencies such as UNOCHA and the World Bank, and Médecins Sans Frontières in all of our programs \(Disaster Mapping, Community Building and Technical Development\)
 * Digital Globe, AIRBUS D&S, Google Crisis Response, ITHACA, Bing, Amazon, Mapbox, Planet Labs, UAviators, UNSAT, the USGS and the US State Department - HIU for imagery as well as other collaborations.
-* Liaisons also help maintain relationships with our donors including the Hewlett Foundation, Humanitarian Innovation Fund and Knight Foundation among others mentioned above.
+* Liaisons also help maintain relationships with our donors including the Humanitarian-to-Humanitarian Network(H2), Hewlett Foundation, Humanitarian Data eXchange(HDX), among others mentioned above.
 
 ## Partner Projects
 
-One way HOT maintains lasting partnerships is by engaging in collaborative projects. These are showcased on the website which also allows for co-branded messaging through updates. Liaisons involved in these projects ensure that the project page and updates are published and maintained. Visit the Partnership Page to explore these partner projects.
+One way HOT maintains lasting partnerships is by engaging in collaborative projects. These are showcased on the website which also allows for co-branded messaging through updates. Liaisons involved in these projects ensure that the project page and updates are published and maintained. Visit the [Partner With Us page](https://www.hotosm.org/partners/) to explore these partner opportunities.
 
 ## Review
 
