@@ -18,6 +18,10 @@ The Strategic Working Group drafted values into the most current version of the:
 
 In general, the HOT values are adapted from [https://en.wikipedia.org/wiki/Humanitarian\_principles](https://en.wikipedia.org/wiki/Humanitarian_principles) to include some more language about open source and digital working environments.
 
+## Stay Engaged
+
+The best way to stay informed and engaged on a wide variety of topics that may be essential to your partner liaison role is to be active in several of the HOT Working Groups. Without question, it will be essential to be active in the Activation Working Group (refer to the Activation Essentials Course for details and how to join). Additionally, the Community Working Group does a lot to showcase not only HOT projects but local and partner projects globally. They may be the best group to discover potential disaster partners. To join the Community Working Group, message them on either Slack, Matrix or Telegram (all bridged for cross platform communications). Find more details on the (OSM Wiki)[https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community]
+
 ## Duty During Activation
 
 During an Activation, those trained as Partner Liaison will be expected to monitor communication for potential partnership opportunities. Often non-profits, as well as first responder or government agents of the local community will discover HOT during an event and may try to reach out through the main mailing list or be introduced through a common collaboration channel such as a Skype room set-up for coordinating the response, through the Digital Humanitarian Network or various social media channels. It is the duty of the Partner Liaisons to make sure those communications are addressed and that contacts are recorded for further communications.
