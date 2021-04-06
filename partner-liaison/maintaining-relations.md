@@ -19,9 +19,9 @@ One way HOT maintains lasting partnerships is by engaging in collaborative proje
 
 ## Review
 
-Which of the following is NOT an HOT partner project?
+Which of the following is a collaborative project that HOT is, or has, not directly contributed to?
 
 * Overpass Turbo
-* American Red Cross
+* Field Papers
 * Missing Maps
 
