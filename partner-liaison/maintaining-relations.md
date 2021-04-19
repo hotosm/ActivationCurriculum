@@ -6,7 +6,7 @@ Of course those interested in becoming liaisons should know who our current part
 
 ## Brief Partner List
 
-As we are constantly making new connections, the following is only a brief list of current partners at the creation of this course:
+As we are constantly making new connections, the following is only a brief list of current partners at the last update of this course:
 
 * Members of the [Missing Map](https://www.missingmaps.org/) which HOT is a founding member are listed on the about page, https://www.missingmaps.org/about/ - all of them we have partnered with on some level.
 * Various UN agencies such as UNOCHA and the World Bank, and Médecins Sans Frontières in all of our programs \(Disaster Mapping, Community Building and Technical Development\)
