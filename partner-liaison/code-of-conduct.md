@@ -20,7 +20,7 @@ In general, the HOT values are adapted from [https://en.wikipedia.org/wiki/Human
 
 ## Stay Engaged
 
-The best way to stay informed and engaged on a wide variety of topics that may be essential to your partner liaison role is to be active in several of the HOT Working Groups. Without question, it will be essential to be active in the Activation Working Group (refer to the Activation Essentials Course for details and how to join). Additionally, the Community Working Group does a lot to showcase not only HOT projects but local and partner projects globally. They may be the best group to discover potential disaster partners. To join the Community Working Group, message them on either Slack, Matrix or Telegram (all bridged for cross platform communications). Find more details on the [https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community](OSM Wiki)
+The best way to stay informed and engaged on a wide variety of topics that may be essential to your partner liaison role is to be active in several of the HOT Working Groups. Without question, it will be essential to be active in the Activation Working Group (refer to the Activation Essentials Course for details and how to join). Additionally, the Community Working Group does a lot to showcase not only HOT projects but local and partner projects globally. They may be the best group to discover potential disaster partners. To join the Community Working Group, message them on either Slack, Matrix or Telegram (all bridged for cross platform communications). Find more details on the [OSM Wiki](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Community)
 
 ## Duty During Activation
 
