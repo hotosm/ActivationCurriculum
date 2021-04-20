@@ -12,12 +12,13 @@ This unit will cover the basics of HOT communication, the tools and methods for 
 
 ### Mailing Lists
 
-HOT has many mailing-lists; there is a master spreadsheet with over 50 that HOT owns or co-operates/moderates that will be shared with endorsed Public Relations Activators. For training purposes these are the most important:
+OpenStreetMap has many mailing-lists; there is a master list (https://lists.openstreetmap.org) with over 50 that OSM owns or co-operates/moderates that will be shared with endorsed Public Relations Activators. For training purposes these are the most important:
 
 The ['main' channels posted on the wiki](http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team#Communication):
 
 * hot@openstreetmap.org - the [main HOT mailing-list](https://lists.openstreetmap.org/listinfo/hot) for all community/public discussion
 * info@hotosm.org - for general communication with HOT the organization \(HOT's Core Operations Team - 24/7 monitoring\)
+* additional @hotosm.org lists and emails are maintained by HOT
 
 Most Working Groups also have an email account:
 
@@ -27,7 +28,8 @@ Most Working Groups also have an email account:
 
 ### Text Chat
 
-HOT uses the [comparison of clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients) for every operated system. HOT is at irc://irc.oftc.net/hot or irc://irc.oftc.net \#hot depending on your client.
+HOT still uses the [comparison of clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients) for every operated system. HOT is at irc://irc.oftc.net/hot or irc://irc.oftc.net \#hot depending on your client.
+However, we now use our Slack more for generally text (and voice) platform. Head to [Slack.hotosm.org](Slack.hotosm.org) to sign up.
 
 ### Voice Chat
 
