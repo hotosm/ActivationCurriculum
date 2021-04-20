@@ -60,8 +60,8 @@ Now we'll look at 'how' these tools are used, but first a few more tools to know
 
 The Activation Lead\(s\) will typically be the ones who will set up the tools and methods for coordinating among the Activation Team. Due to it being generally related to communications the Public Relations volunteers may be delegated to set-up and/or help maintain team collaboration. Here are a few tools you should become familiar with:
 
-* [Google Sites](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0CDEQFjABahUKEwiArs_WgrnHAhVLCZIKHX2EBUU&amp;url=http%3A%2F%2Fwww.google.com%2Fsites%2Foverview.html&amp;ei=cH7WVYC2LcuSyAT9iJaoBA&amp;usg=AFQjCNGfTgBCldbppBHTVoHwZx1YYe1TtQ) - typically only used for keeping track of lots of external information.
-* [Trello](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CB8QFjAAahUKEwjmjK7egrnHAhXIfpIKHckTCpw&amp;url=https%3A%2F%2Ftrello.com%2F&amp;ei=gH7WVebMO8j9yQTJp6jgCQ&amp;usg=AFQjCNGERS4yYpddS2mm7XYgB1ozgT4xMQ) - typically used for Activation Team tasking and tracking.
+* [Google Docs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjFlde444vwAhUQs54KHbQRBr4QFjABegQIAhAD&url=https%3A%2F%2Fdocs.google.com%2F&usg=AOvVaw3jmyQoQebIiWAhkJ0S1T-o) - a go-to resource, we often use Google Docs, Sheets and Slides.
+* [Trello](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CB8QFjAAahUKEwjmjK7egrnHAhXIfpIKHckTCpw&amp;url=https%3A%2F%2Ftrello.com%2F&amp;ei=gH7WVebMO8j9yQTJp6jgCQ&amp;usg=AFQjCNGERS4yYpddS2mm7XYgB1ozgT4xMQ) - used for Activation Working Group Meetings and sometimes (for larger responses) used for Activation Team tasking and tracking.
 
 ### External Communications
 
