@@ -23,14 +23,14 @@ As an event is predicted or unfolds, it is the collaborative effort of the Activ
 * The geographic scope: single or multiple village to city size, city to a country/region, country/region to global
 * The estimated humanitarian impact: less than ten thousand people affected, between ten and hundreds of thousands, or more
 * The estimated duration: days, weeks, months, years
-* The current capacity from HOT to respond: are there other Disaster Mapping taking precedence/can an Activation Team be formed?
+* The current capacity of HOT to respond: are there other repsonse taking precedence/can an Activation Team be formed?
 
 Some other considerations that could be tasked to Data, Imagery and other Activators are:
 
-* The estimated needs/state of the map in the area of interest \(are there COD missing?\)
+* The estimated needs/state of the map in the area of interest \(are there [COD](https://learnosm.org/en/beginner/glossary/) missing?\)
 * The availability of imagery for pre-disaster/preparedness mapping
 
-  \*The availability of known 3rd party data \(potentially for import/potentially better data than would be generated quickly\)
+  \*The availability of known 3rd party data \(MapWith.AI/ potential import/ better data than would be generated quickly\)
 
 ### Explore Response Options
 
