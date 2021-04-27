@@ -46,7 +46,7 @@ What is the minimum number of Activation Leads suggested for a successful Activa
 
 ## Managing the Team Lesson
 
-It one thing to set up a Tasking Manager project and ask for mappers, it is another to ask and keep tabs on a team of remote coordinators.
+It is one thing to set up a Tasking Manager project and ask for mappers, it is another to recruit and keep a team of remote coordinators engaged and on task.
 
 ### Leadership Style
 
