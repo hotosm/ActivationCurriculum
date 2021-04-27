@@ -6,7 +6,7 @@ A key indicator of an effective leader is how well the people around them perfor
 
 ## Staffing the Team
 
-As hopefully expected, Activation Lead is mostly about managing others, that starts with thinking about staffing and managing staff\(Activation Team\) throughout the Activation.
+As you likely expected, being an Activation Lead is mostly about managing others, that starts with thinking about staffing and managing staff\(Activation Team\) throughout the Activation.
 
 ### Span of Control
 
@@ -24,7 +24,7 @@ Also be prepared to scale up and down the number of Activation Leads and make su
 
 When considering how many support roles should be recruited for support, this will most likely be closely tied to the scope and estimated duration of the event. The larger the area to be mapped, the more work for the Tasking, Data, Imagery and Validation roles. As with Leads, the more international media attention, the more Public Relations and Community Care roles will be needed.
 
-Partner Liaisons are assigned their roles by the Executive Director 'semi-permanently' to maintain and be a direct contact for our partners; for moderate to large scale events especially if mapping in an area we have not recently or when getting multiple requests, ensure one is helping coordinate communications.
+Partner Liaisons are given assignments by the Activation Lead(s), Disaster Services Team, and a variety of other people and/or teams inside of HOT. One or more may be recruited for moderate to large scale events especially if mapping in an area we have many partners, or when getting multiple requests, ensure one is helping coordinate communications.
 
 Often the Reporting role can be a secondary task for an Activator, but for major events, one should be assigned. The exact number can be dynamic and potentially liaisons, public relations and other Activators may only be needed during critical portion. Most importantly the number of support roles should be within the span of control of the Leads and complement each other to ensure all roles will be filled.
 
