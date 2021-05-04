@@ -15,7 +15,7 @@ For OpenStreetMap editing, there are many sources of immediately available image
 
 ## OpenAerialMap
 
-HOT maintains a tool for discovering and sharing openly licensed aerial imagery called [OpenAerialMap](http://openaerialmap.org/). To learn about the history or follow the development of the tool, visit [the project page on the HOT website](http://hotosm.org/projects/openaerialmap).
+HOT maintains a tool for discovering and sharing openly licensed aerial imagery called [OpenAerialMap](http://openaerialmap.org/). To learn about the history of OAM, visit [the project page on the HOT website](https://www.hotosm.org/projects/uav-imagery-for-disaster-response-pacific-drone-imagery-dashboard-pacdid).
 
 ## Review
 
