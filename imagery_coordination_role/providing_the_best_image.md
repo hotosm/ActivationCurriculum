@@ -4,7 +4,7 @@ This unit will explain the process\(es\) that HOT uses when imagery is lacking i
 
 ## Items to Read
 
-* [LearnOSM: WMS Configuration](http://courses.hotosm.org/mod/url/view.php?id=129)
+* [LearnOSM: WMS Configuration](https://docs.google.com/document/d/1pbj2T7AlGrCxjDkGtCGmVHVezWbfweqlNXoXbGFHVKE)
 
 ## Requesting Imagery
 
