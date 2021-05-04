@@ -19,8 +19,7 @@ HOT maintains a tool for discovering and sharing openly licensed aerial imagery 
 
 ## Review
 
-Only one source of imagery can be used in a Tasking Manager project.
-
+It is true that only one source of imagery can be used while mapping on a Tasking Manager project?
 * True
 * False
 
