@@ -4,6 +4,7 @@ Items to Read
 
 * [Introduction to Aerial Imagery at LearnOSM](http://learnosm.org/en/josm/aerial-imagery/)
 * [Correcting Imagery Offset in the Editor at LearnOSM](http://learnosm.org/en/josm/correcting-imagery-offset/)
+* [Aerial imagery & Alignment - iD editor](https://learnosm.org/en/hot-tips/imagery/)
 
 ## Imagery Availability
 
